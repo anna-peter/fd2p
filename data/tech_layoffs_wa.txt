@@ -1,0 +1,24 @@
+Company	Location	Layoff Start Date	# of Workers	Closure Layoff	Type of Layoff	Received Date
+Meta Platforms, Inc	Seattle	1/13/2023	419	Layoff	Permanent	11/11/2022
+Meta Platforms, Inc	Bellevue	1/13/2023	307	Layoff	Permanent	11/11/2022
+Amazon	Tukwila	8/1/2024	172	Closure	Permanent	5/31/2024
+Amazon	Seattle, Bellevue	3/19/2023	2320	Layoff	Permanent	1/18/2023
+Amazon Health Services	Seattle	12/1/2022	159	Closure	Permanent	9/7/2022
+Microsoft	Redmond	8/1/2025	305	Layoff	Permanent	6/2/2025
+Microsoft	Redmond	7/12/2025	1985	Layoff	Permanent	5/13/2025
+Microsoft	Redmond and Bellevue	9/8/2023	276	Layoff	Permanent	7/10/2023
+Microsoft	Redmond	8/4/2023	22	Layoff	Permanent	6/5/2023
+Microsoft	Redmond	5/26/2023	158	Layoff	Permanent	5/9/2023
+Microsoft	Redmond and Bellevue	5/26/2023	559	Layoff	Permanent	3/27/2023
+Microsoft	Redmond, Bellevue, Issaquah	5/5/2023	689	Layoff	Permanent	3/6/2023
+Microsoft	Redmond, Bellevue, Issaquah	4/10/2023	617	Layoff	Permanent	2/9/2023
+Microsoft	Redmond, Bellevue, Issaquah	3/20/2023	878	Layoff	Permanent	1/18/2023
+Microsoft	Redmond	12/28/2014	635	Layoff	Permanent	10/30/2014
+Microsoft	Redmond	11/17/2014	747	Layoff	Permanent	9/18/2014
+Microsoft	Redmond	9/15/2014	1351	Layoff	Permanent	7/17/2014
+Microsoft	Redmond	11/1/2009	27	Layoff	Permanent	9/3/2009
+Microsoft	Redmond	7/4/2009	1200	Layoff	Permanent	5/5/2009
+Microsoft	Seattle	6/30/2009	2	Layoff	Permanent	4/1/2009
+Microsoft	Redmond	3/23/2009	872	Layoff	Permanent	1/23/2009
+Microsoft	Redmond	10/25/2004	67	Layoff	Permanent	8/23/2004
+Twitter, Inc	Seattle	1/4/2023	257	Layoff	Permanent	11/4/2022
