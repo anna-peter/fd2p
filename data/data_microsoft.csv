@@ -1,0 +1,106 @@
+State,Company,City,Number of Workers,WARN Received Date,Effective Date,Closure/Layoff,Temporary/Permanent,Union,Region,County,Industry,Notes
+Washington,Microsoft,Redmond,305,06/02/2025,08/01/2025,Layoff,Permanent,,,,,
+California,Microsoft - 1045,Mountain View,7,06/02/2025,08/01/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1045 La Avenida  Mountain View CA 94043
+California,Microsoft - 445 & 455,Sunnyvale,1,06/02/2025,08/01/2025,Layoff Permanent,,,,Santa Clara County,51 Information,445 & 455 North Mary Avenue  Sunnyvale CA 94085
+California,LinkedIn Corporation,San Francisco,60,05/28/2025,05/15/2025,Layoff Permanent,,,,San Francisco County,51 Information,222 Second Street  San Francisco CA 94105
+California,LinkedIn Corporation,Carpintiera,11,05/28/2025,05/15/2025,Layoff Permanent,,,,Santa Barbara County,51 Information,6410 Via Real  Carpinteria CA 93013
+California,LinkedIn Corporation,Sunnyvale,51,05/28/2025,05/15/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1000 W. Maude Avenue  Sunnyvale CA 94085
+California,LinkedIn Corporation,Mountain View,159,05/28/2025,05/15/2025,Layoff Permanent,,,,Santa Clara County,51 Information,700 E. Middlefield Road  Mountain View CA 94043
+Washington,Microsoft,Redmond,"1,985",05/13/2025,07/12/2025,Layoff,Permanent,,,,,
+California,Microsoft - 770,Mountain View,1,05/14/2025,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,770 E Middlefield  Mountain View CA 94043
+California,Microsoft - 3201,Santa Clara,3,05/14/2025,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,3201 Scott Blvd  Santa Clara CA 95054
+California,Microsoft - 1045,Mountain View,82,05/14/2025,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1045 La Avenida  Mountain View CA 94043
+California,Activision Blizzard,Los Angeles,143,09/13/2024,11/15/2024,Layoff Permanent,,,,Los Angeles County,54 Professional Scientific and Technical Services,13031 W. Jefferson Blvd Suite 200  Los Angeles CA 90094
+California,Activision Blizzard,Santa Monica,110,09/13/2024,10/11/2024,Layoff Permanent,,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,"2701 Olympic Blvd, Building B  Santa Monica CA 90404"
+California,Activision Blizzard,Irvine,140,09/13/2024,10/11/2024,Layoff Permanent,,,,Orange County,56 Administrative and Support and Waste Management and Remediation,16215 Alton Pkwy  Irvine CA 92618
+California,Activision Blizzard,Santa Monica,9,05/10/2024,06/07/2024,Layoff Permanent,,,,Los Angeles County,,"2701 Olympic Blvd, Building B Santa Monica CA 90404"
+California,Activision Blizzard,Santa Monica,5,05/10/2024,06/07/2024,Layoff Permanent,,,,Los Angeles County,,2450 Colorado Avenue Santa Monica CA 90404
+California,Activision Blizzard,Woodland Hills,1,04/12/2024,06/07/2024,Layoff Permanent,,,,Los Angeles County,,"21255 Burbank Blvd, Suite 600 Woodland Hills CA 91367"
+California,Activision Blizzard,Irvine,18,04/12/2024,06/07/2024,Layoff Permanent,,,,Orange County,,16215 Alton Pkwy Irvine CA 92618
+California,Activision Blizzard,Woodland Hills,49,02/02/2024,03/30/2024,Layoff Permanent,,,,Los Angeles County,,21255 Burbank Blvd Suite 600 Woodland Hills CA 91367
+California,Activision Blizzard,Santa Monica,79,02/02/2024,03/30/2024,Layoff Permanent,,,,Los Angeles County,,2701 Olympic Blvd Building B Santa Monica CA 90404
+California,Activision Blizzard,Santa Monica,130,02/02/2024,03/30/2024,Layoff Permanent,,,,Los Angeles County,,2450 Colorado Ave. Santa Monica CA 90404
+California,Activision Blizzard,Irvine,479,02/02/2024,03/30/2024,Layoff Permanent,,,,Orange County,,16215 Alton Pkwy Irvine CA 92618
+California,Activision Blizzard,Novato,86,02/02/2024,03/30/2024,Layoff Permanent,,,,Marin County,,4 Hamilton Landing Suite 210 Novato CA 94949
+California,Activision Blizzard,San Mateo,76,02/02/2024,03/30/2024,Layoff Permanent,,,,San Mateo County,,1001 E Hillside Blvd. Ste. 610 San Mateo CA 94404
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,349,01/19/2024,12/15/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,42,01/19/2024,12/15/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,42,01/19/2024,12/15/2023,Layoff Permanent,,,,San Francisco County,,
+California,LinkedIn Corporation,6410 Via Real Carpinteria CA 93013,5,01/19/2024,12/15/2023,Layoff Permanent,,,,Santa Barbara County,,
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,102,07/24/2023,06/09/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,13,07/24/2023,06/09/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,72,07/24/2023,06/09/2023,Layoff Permanent,,,,San Francisco County,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,40,07/10/2023,09/08/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,"Redmond, Bellevue",276,07/10/2023,09/08/2023,Layoff,Permanent,,,,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,2,07/07/2023,08/04/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,Redmond,22,06/05/2023,08/04/2023,Layoff,Permanent,,,,,
+Washington,Microsoft,Redmond,158,05/09/2023,05/26/2023,Layoff,Permanent,,,,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,19,04/03/2023,05/26/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,2820 Northwestern Parkway Santa Clara CA 95051,1,04/03/2023,05/26/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,11 Great Oaks Blvd San Jose CA 95138,1,04/03/2023,05/26/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,"Redmond, Bellevue",559,03/27/2023,05/26/2023,Layoff,Permanent,,,,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,54,03/20/2023,05/05/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,1,03/20/2023,05/05/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,11 Great Oaks Blvd San Jose CA 95138,1,03/20/2023,05/05/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,"Redmond, Bellevue, Issaquah",689,03/06/2023,05/05/2023,Layoff,Permanent,,,,,
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,49,02/27/2023,02/13/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,3,02/27/2023,02/13/2023,Layoff Permanent,,,,Santa Clara County,,
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,39,02/27/2023,02/13/2023,Layoff Permanent,,,,San Francisco County,,
+California,Microsoft,770 E. Middlefield Road Mountain View CA 94043,7,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,2820 Northwestern Parkway Santa Clara CA 95051,1,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,2401 Walsh Avenue Santa Clara CA 95051,1,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,880 E. Middlefield Road Mountain View CA 94043,1,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1090 La Avenida Mountain View CA 94043,2,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,41,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,9,02/13/2023,04/10/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,"Redmond, Bellevue, Issaquah",617,02/09/2023,04/10/2023,Layoff,Permanent,,,,,
+California,Microsoft,1045 La Avenida Mountain View CA 94043,41,02/08/2023,03/20/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1090 La Avenida Mountain View CA 94043,1,02/08/2023,03/20/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,3,02/08/2023,03/20/2023,Layoff Permanent,,,,Santa Clara County,,
+California,Microsoft,"2220 De La Cruz Blvd., Bldg 1 Santa Clara CA 95050",1,02/08/2023,03/20/2023,Layoff Permanent,,,,Santa Clara County,,
+Washington,Microsoft,"Redmond, Bellevue, Issaquah",878,01/18/2023,03/20/2023,Layoff,Permanent,,,,,
+California,Blizzard Entertainment Inc.,Irvine,55,03/23/2021,03/16/2021,Layoff Permanent,,,,Orange County,,
+California,Linkedin Corporation,Sunnyvale,29,09/03/2020,08/21/2020,Layoff Permanent,,,,Santa Clara County,,
+California,Sodexo dba Artisan Restaurant Collection at LinkedIn,San Francisco,52,06/25/2020,06/30/2020,Layoff Permanent,,,,San Francisco County,,
+California,Sodexo dba Artisan Restaurant Collection at LinkedIn,San Francisco,86,06/16/2020,03/13/2020,Layoff Temporary,,,,San Francisco County,,
+California,US Perma Inc. dba California Tile Installers at Microsoft,Mountain View,25,04/17/2020,03/17/2020,Layoff Temporary,,,,Santa Clara County,,
+California,"Blizzard Entertainment, Inc.",Irvine,209,02/15/2019,04/13/2019,Layoff Permanent,,,,Orange County,,
+California,"Activision Publishing, Inc. (Activision)",Fresno,50,01/09/2018,01/05/2018,Closure Permanent,,,,Fresno County,,
+Oregon,Microsoft - Wilsonville Facility,Wilsonville,7,11/06/2017,03/23/2018,Large Layoff - 10 or more workers,,,,,,2210
+Oregon,Microsoft - Wilsonville Facility,Wilsonville,8,11/06/2017,01/22/2018,Large Layoff - 10 or more workers,,,,,,2210
+Oregon,Microsoft - Wilsonville Facility,Wilsonville,6,11/06/2017,12/05/2017,Large Layoff - 10 or more workers,,,,,,2210
+Oregon,Microsoft - Wilsonville Facility,Wilsonville,50,11/06/2017,11/06/2017,Large Layoff - 10 or more workers,,,,,,2210
+California,Nokia USA Inc.,Sunnyvale,72,10/19/2017,12/21/2017,Layoff Permanent,,,,Santa Clara,,
+Oregon,Microsoft Wilsonville OR Facility,Wilsonville,63,07/10/2017,11/06/2017,Permanent closure,,,,,,2144
+Oregon,Microsoft Wilsonville OR Facility,Wilsonville,61,07/10/2017,09/08/2017,Large Layoff - 10 or more workers,,,,,,2144
+California,Microsoft Corporation,San Diego,2,01/20/2016,03/20/2016,Closure Permanent,,,,,,
+California,Microsoft Corporation,San Diego,4,10/21/2015,12/20/2015,Closure Unknown at this time,,,,,,
+California,Microsoft Corporation,San Diego,129,07/08/2015,09/06/2015,Layoff Permanent,,,,,,
+California,Microsoft and Nokia Inc.,Sunnyvale,13,11/06/2014,12/28/2014,Layoff Permanent,,,,,,
+California,Microsoft and Nokia Inc.,Mountain View,8,11/04/2014,12/28/2014,Layoff Permanent,,,,,,
+California,Microsoft and Nokia Inc.,San Diego,154,10/31/2014,12/28/2014,Layoff Permanent,,,,,,
+Washington,Microsoft,Redmond,635,10/30/2014,12/28/2014,Layoff,Permanent,,,,,
+California,"Microsoft and Nokia, Inc.",Mountain View,94,09/25/2014,11/17/2014,Layoff Permanent,,,,,,
+California,"Microsoft and Nokia, Inc.",Sunnyvale,53,09/25/2014,11/17/2014,Layoff Permanent,,,,,,
+California,"Microsoft and Nokia, Inc.",San Diego,13,09/25/2014,11/17/2014,Layoff Permanent,,,,,,
+New York,Microsoft Corporation,Hauppauge,1,09/18/2014,,Plant Closing,,,Long Island,Suffolk,Computer program development,Relocation to Redmond WA
+Washington,Microsoft,Redmond,747,09/18/2014,11/17/2014,Layoff,Permanent,,,,,
+New York,Microsoft Corporation,Hauppauge,32,07/17/2014,,Plant Closing,,,Long Island,Suffolk,Computer program development,Relocation to Redmond WA
+Washington,Microsoft,Redmond,"1,351",07/17/2014,09/15/2014,Layoff,Permanent,,,,,
+California,"Microsoft and Nokia, Inc.",San Diego,378,07/17/2014,09/15/2014,Layoff Permanent,,,,,,
+New York,Microsoft Corporation,Islandia,27,12/06/2012,03/08/2013,Plant Layoff,,,Long Island,Suffolk,Computer program development,Relocation to Redmond WA
+California,"Blizzard Entertainment, Inc.",Irvine,45,04/28/2012,,,,,,,,
+California,"Blizzard Entertainment, Inc.",Irvine,155,04/28/2012,,,,,,,,
+New York,Nokia Inc.,White Plains,275,07/01/2011,06/30/2011,Plant Closing,,,Mid-Hudson Region,Westchester,Cell Phone Sales and Services,Economic
+California,"Activision, Inc",El Segundo,56,04/12/2011,,,,,,,,
+California,"Activision, Inc.",Santa Monica,115,04/12/2011,,,,,,,,
+California,"Activision, Inc. California 7 Studios, Inc.",Santa Monica,29,04/12/2011,,,,,,,,
+Washington,Microsoft,Redmond,27,09/03/2009,11/01/2009,Layoff,Permanent,,,,,
+New York,Microsoft Corporation,New York,26,05/05/2009,08/03/2009,Plant Layoff,,,New York City,New York,Computer software systems,Economic
+Washington,Microsoft,Redmond,"1,200",05/05/2009,07/04/2009,Layoff,Permanent,,,,,
+Washington,Microsoft,Seattle,2,04/01/2009,06/30/2009,Layoff,Permanent,,,,,
+California,Activision Blizzard,Los Angeles,4,01/31/2009,,,,,,,,
+Washington,Microsoft,Redmond,872,01/23/2009,03/23/2009,Layoff,Permanent,,,,,
+Washington,Microsoft,Redmond,67,08/23/2004,10/25/2004,Layoff,Permanent,,,,,
+Ohio,Microsoft Business Solutions,Findlay,177,06/03/2004,09/30/2004,,,,,,,716-03-127
+Alabama,NOKIA BROADBAND ACCESS,Huntsville,71,12/05/2001,02/04/2002,Closing,,,,,,

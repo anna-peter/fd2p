@@ -1,0 +1,58 @@
+State,Company,City,Number of Workers,WARN Received Date,Effective Date,Closure/Layoff,Temporary/Permanent,Union,Region,County,Industry,Notes
+Texas,TRIGO (Tesla),Austin,50,05/07/2025,04/28/2025,,,,Capital Area WDA,Travis,,
+California,"Tesla, Inc.",Fremont,164,05/13/2024,06/20/2024,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd Fremont CA 94538
+California,"Tesla, Inc.",Fremont,65,05/13/2024,06/20/2024,Layoff Permanent,,,,Alameda County,,47700 Kato Road Fremont CA 94538
+California,"Tesla, Inc.",Palo Alto,53,05/13/2024,06/20/2024,Layoff Permanent,,,,Santa Clara County,,1501 Page Mill Road Palo Alto CA 94304
+California,"Tesla, Inc.",Palo Alto,52,05/13/2024,06/20/2024,Layoff Permanent,,,,Santa Clara County,,3000 Hanover Street Palo Alto CA 94304
+California,"Tesla, Inc.",Fremont,149,05/13/2024,06/20/2024,Layoff Permanent,,,,Santa Clara County,,901 Page Avenue Fremont CA 94538
+California,"Tesla, Inc.",Palo Alto,118,05/13/2024,06/20/2024,Layoff Permanent,,,,Santa Clara County,,3500 Deer Creek Road Palo Alto CA 94304
+California,"Tesla, Inc.",Fremont,"1,452",04/25/2024,06/14/2024,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd Fremont CA 94538
+California,"Tesla, Inc.",Fremont,25,04/25/2024,06/14/2024,Layoff Permanent,,,,Alameda County,,47623 Fremont Blvd Fremont CA 94538
+California,"Tesla, Inc.",Fremont,11,04/25/2024,06/14/2024,Layoff Permanent,,,,Alameda County,,4170 Business Center Drive Fremont CA 94538
+California,"Tesla, Inc.",Fremont,8,04/25/2024,06/14/2024,Layoff Permanent,,,,Alameda County,,3777 Spinnaker Court Fremont CA 94538
+California,"Tesla, Inc.",Fremont,6,04/25/2024,06/14/2024,Layoff Permanent,,,,Alameda County,,44320-44350 Nobel Drive Fremont CA 94538
+California,"Tesla, Inc.",Burbank,6,04/25/2024,06/14/2024,Layoff Permanent,,,,Los Angeles County,,633 S. San Fernando Blvd Burbank CA 91502
+California,"Tesla, Inc.",Burbank,28,04/25/2024,06/14/2024,Layoff Permanent,,,,Los Angeles County,,"3022 Kenwood Street, Suite E Burbank CA 91505"
+California,"Tesla, Inc.",Burbank,30,04/25/2024,06/14/2024,Layoff Permanent,,,,Los Angeles County,,811 S. San Fernando Blvd Burbank CA 91502
+California,"Tesla, Inc.",Lathrop,9,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,701 D&rsquo;Arcy Pkwy Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,77,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,17100 Murphy Parkway Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,49,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,18250 Murphy Parkway Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,23,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,5150 Glacier Street Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,24,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,500 E Louise Avenue Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,17,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,401 Nestle Way Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,32,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,18260 S Harlan Road Lathrop CA 95330
+California,"Tesla, Inc.",Lathrop,284,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,700 D&rsquo;Arcy Pkwy Lathrop CA 95330
+California,"Tesla, Inc.",Fremont,1,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,1220 Page Avenue Fremont CA 94538
+California,"Tesla, Inc.",Fremont,3,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47811 Warm Springs Blvd Fremont CA 94539
+California,"Tesla, Inc.",Fremont,17,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,48370 Kato Road Fremont CA 94538
+California,"Tesla, Inc.",Fremont,19,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,1055 Page Avenue Fremont CA 94538
+California,"Tesla, Inc.",Fremont,108,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47400 Kato Road Fremont CA 94538
+California,"Tesla, Inc.",Fremont,214,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47700 Kato Road Fremont CA 94538
+California,"Tesla, Inc.",Fremont,403,04/25/2024,06/14/2024,Layoff Permanent,,,,San Joaquin County,,901 Page Avenue Fremont CA 94538
+California,"Tesla, Inc.",Palo Alto,155,04/25/2024,06/14/2024,Layoff Permanent,,,,Santa Clara County,,3500 Deer Creek Road Palo Alto CA 94304
+California,"Tesla, Inc.",Palo Alto,237,04/25/2024,06/14/2024,Layoff Permanent,,,,Santa Clara County,,1501 Page Mill Road Palo Alto CA 94304
+California,"Tesla, Inc.",Palo Alto,81,04/25/2024,06/14/2024,Layoff Permanent,,,,Santa Clara County,,3000 Hanover Street Palo Alto CA 94304
+California,"Tesla, Inc.",Palo Alto,11,04/25/2024,06/14/2024,Layoff Permanent,,,,Santa Clara County,,4180 El Camino Real Palo Alto CA 94306
+California,"Tesla, Inc.",Palo Alto,2,04/25/2024,06/14/2024,Layoff Permanent,,,,Santa Clara County,,"660 Stanford Shopping Center, Suite 359B Palo Alto CA 94304"
+Texas,Tesla,Austin,"2,688",04/23/2024,04/19/2024,,,,Capital Area WDA,Travis,,
+Nevada,"Tesla, Inc.",Sparks,693,04/19/2024,06/14/2024,Layoff,,,,Washoe,,
+Maryland,Tesla,Hunt Valley,55,08/18/2023,10/16/2023,Mass Layoff - No Recall,,,Baltimore County,,336110,"336 Clubhouse Road Hunt Valley, MD 21031"
+California,"Tesla, Inc.",Fremont,20,07/12/2022,08/27/2022,Layoff Permanent,,,,Alameda County,,901 Page Avenue Fremont CA 94538
+California,"Tesla, Inc.",Fremont,5,07/12/2022,08/27/2022,Layoff Permanent,,,,Alameda County,,47700 Kato Road Fremont CA 94538
+California,"Tesla, Inc.",Fremont,1,07/12/2022,08/27/2022,Layoff Permanent,,,,Alameda County,,45201 Fremont Blvd. Fremont CA 94538
+California,"Tesla, Inc.",Fremont,2,07/12/2022,08/27/2022,Layoff Permanent,,,,Alameda County,,47400 Kato Road Fremotn CA 94538
+California,"Tesla, Inc.",Fremont,41,07/12/2022,08/27/2022,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd. Fremont CA 94538
+California,"Tesla, Inc.",San Mateo,229,07/11/2022,08/27/2022,Closure Permanent,,,,San Mateo County,,3055 Clearview Way San Mateo CA 94402
+California,"Tesla, Inc",Fremont,"11,083",05/12/2020,04/13/2020,Layoff Temporary,,,,Alameda County,,
+California,Tesla Inc.,Lathrop,156,05/12/2020,04/13/2020,Layoff Temporary,,,,San Joaquin County,,
+California,"Tesla, Inc.",Fremont,964,06/17/2019,03/20/2019,Layoff Permanent,,,,Alameda County,,
+California,"Tesla, Inc.",Palo Alto,84,06/17/2019,03/20/2019,Layoff Permanent,,,,Santa Clara,,
+Hawaii,Tesla,Waikiki,19,03/06/2019,05/05/2019,Layoff,Permanent,,,,,
+California,"Tesla, Inc.",Lathrop,141,03/01/2019,03/20/2019,Layoff Permanent,,,,San Joaquin,,
+Nevada,Tesla,Las Vegas,163,01/30/2019,03/20/2019,Layoff,,,,Clark,,
+Nevada,Tesla,Sparks,124,01/30/2019,03/20/2019,Layoff,,,,Storey,,
+Arizona,Tesla,Phoenix,58,01/29/2019,,,,,7,,,
+Utah,Tesla Energy Operations,Draper,97,10/10/2018,,,,,,,,
+California,"Tesla, Inc.",Fremont,420,06/19/2018,08/14/2018,Layoff Permanent,,,,Alameda County,,
+California,"Tesla, Inc.",Palo Alto,86,06/19/2018,08/14/2018,Layoff Permanent,,,,Santa Clara,,
+California,"Tesla, Inc.",Roseville,63,08/30/2017,10/31/2017,Layoff Permanent,,,,Placer County,,

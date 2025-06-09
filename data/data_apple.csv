@@ -1,0 +1,20 @@
+State,Company,City,Number of Workers,Received Date,"Effective
+  Date",Layoff/Closure,Temporary/Permanent,Union,Region,County,Industry,Notes
+California,Apple Inc.,Santa Clara,371,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,3689 Kifer Road Santa Clara CA 95051
+California,Apple Inc.,Santa Clara,11,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,3000-3008 Kifer Road Santa Clara CA 95051
+California,Apple Inc.,Santa Clara,23,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,2945 San Ysidro Way Santa Clara CA 95051
+California,Apple Inc.,Santa Clara,15,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,2975 San Ysidro Way Santa Clara CA 95051
+California,Apple Inc.,Santa Clara,58,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,1705 Wyatt Drive Santa Clara CA 95054
+California,Apple Inc.,Santa Clara,49,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,3111 Coronado Drive Santa Clara CA 95054
+California,Apple Inc.,Santa Clara,35,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,3250 Scott Blvd Santa Clara CA 95054
+California,Apple Inc.,Santa Clara,52,04/02/2024,05/27/2024,Layoff Permanent,,,,Santa Clara County,,3260 Scott Blvd Santa Clara CA 95054
+California,Apple Inc.,San Diego,121,01/29/2024,04/26/2024,Layoff Permanent,,,,San Diego County,,4445 Eastgate Mall San Diego CA 92121
+Hawaii,"Apple Store, Royal Hawaiian",Honolulu,57,11/17/2023,01/20/2024,Closure,Permanent,,,,,
+Minnesota,Apple Store - Uptown 2020,Minneapolis,60,10/01/2020,03/15/2020,Closing,Small Layoff Services,,,,Retail,
+New York,"Apple-Metro, Inc.",Harrison,61,03/26/2020,03/17/2020,Temporary Plant Closing,,,Mid-Hudson Region,Westchester,Restaurant,Unforeseeable business circumstances prompted by COVID-19
+New York,"Apple- Metro, Inc. Bed-Stuy Apple, LLC",Brooklyn,36,03/25/2020,03/17/2020,Temporary Plant Closing,,,New York City,Kings,Restaurant,Unforeseeable business circumstances prompted by COVID-19
+New York,"42nd Apple, LLC",New York,48,03/25/2020,03/17/2020,Temporary Plant Closing,,,New York City,New York,Restaurant,Unforeseeable business circumstances prompted by COVID-19
+New York,"117th Apple, LLC",New York,45,03/25/2020,03/17/2020,Temporary Plant Closing,,,New York City,New York,Restaurant,Unforeseeable business circumstances prompted by COVID-19
+California,Apple Inc.,Santa Clara,190,02/19/2019,04/16/2019,Layoff Permanent,,,,Santa Clara,,
+New Jersey,Apple Inc.,Atlantic City,52,05/01/2018,07/25/2018,,,,,,,
+New York,Apple Inc.,New York,49,01/15/2016,04/15/2016,Plant Layoff,,,New York City,New York,Advertising for Apple,Economic

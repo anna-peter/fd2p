@@ -1,0 +1,119 @@
+State,Company,City,Number of Workers,WARN Received Date,Effective Date,Closure/Layoff,Temporary/Permanent,Union,Region,County,Industry,Notes
+California,Amazon (SJC11 Facility),Sunnyvale,33,05/15/2025,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1100 Enterprise Way  Sunnyvale CA 94089
+California,Amazon (SJC14 Facility),Sunnyvale,6,05/15/2025,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,905 11th Avenue  Sunnyvale CA 94089
+California,Amazon (SJC31 Facility),Sunnyvale,5,05/15/2025,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1100 Discovery Way  Sunnyvale CA 94089
+California,Amazon (SJC32 Facility),Sunnyvale,8,05/15/2025,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1140 Enterprise Way  Sunnyvale CA 94089
+Virginia,Amazon MAK7,Manassas,88,03/12/2025,05/13/2025,Closure,,,Northern,,,
+California,Amazon,Thousand Oaks,76,03/14/2025,05/13/2025,Closure Permanent,,,,Ventura County,44-45 Retail Trade,140 Promenade Way  Thousand Oaks CA 91362
+California,Amazon,Woodland Hills,10,01/15/2025,03/09/2025,Closure Permanent,,,,Los Angeles County,44-45 Retail Trade,22001 Ventura Blvd  Woodland Hills CA 91364
+Pennsylvania,Amazon,Imperial,432,01/01/2025,03/12/2025,Layoff,,,,Allegheny,,
+California,Amazon,Milpitas,57,10/29/2024,12/27/2024,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1860 Barber Lane  Milpitas CA 95035
+Illinois,Amazon,Chicago,211,09/16/2024,11/13/2024,Closing,Permanent,No,Northeast 4,Cook,Warehousing and Storage,
+California,Amazon,Irvine,162,09/09/2024,11/07/2024,Layoff Permanent,,,,Orange County,48-49 Transportation and Warehousing,2006 McGaw Avenue  Irvine CA 92614
+California,Amazon,West Sacramento,159,09/09/2024,10/30/2024,Layoff Permanent,,,,Yolo County,48-49 Transportation and Warehousing,3640 Ramos Dr Suite 110  West Sacramento CA 95691
+South Carolina,Whole Foods Market,Hilton Head Island,90,08/02/2024,10/01/2024,Closure,Permanent,,,Beaufort,,
+California,Amazon,Vernon,54,06/07/2024,08/07/2024,Layoff Permanent,,,,Los Angeles County,,"5119 District Blvd, #100  Vernon CA 90058"
+Washington,Amazon,Tukwila,172,05/31/2024,08/01/2024,Closure,Permanent,,,,,
+California,Amazon,4601 Newcastle Drive Stockton CA 95215,390,05/28/2024,07/30/2024,Layoff Permanent,,,,San Joaquin County,,
+California,Amazon,San Francisco,85,05/01/2024,06/27/2024,Closure Permanent,,,,San Francisco County,,888 Tennessee St.  San Francisco CA 94107
+California,"ABM General Services, Inc. at SBD 1 Amazon",Bloomington,49,01/31/2024,03/19/2024,Layoff Permanent,,,,San Bernardino County,,3388 S. Cactus Avenue Bloomington CA 92316
+California,"ABM General Services, Inc. at SNA 4 Amazon",Rialto,32,01/31/2024,03/19/2024,Layoff Permanent,,,,San Bernardino County,,2496 W. Walnut Avenue Rialto CA 92376
+California,"ABM General Services, Inc. at PSP 1 Amazon",Beaumont,86,01/31/2024,03/19/2024,Layoff Permanent,,,,Riverside County,,1010 W. Fourth Street Beaumont CA 92223
+California,"ABM General Services, Inc. at ONT 6 Amazon",Moreno Valley,52,01/31/2024,03/19/2024,Layoff Permanent,,,,Riverside County,,24208 San Michele Road Moreno Valley CA 92551
+California,"ABM General Services, Inc. at FAT 1 Amazon",Fresno,114,01/31/2024,03/19/2024,Layoff Permanent,,,,Fresno County,,3775 S. Orange Avenue Fresno CA 93725
+California,Amazon,Culver City,98,01/29/2024,03/11/2024,Layoff Permanent,,,,Los Angeles County,,9336 W. Washington Blvd Culver City CA 90232
+California,Amazon,Culver City,2,01/29/2024,03/11/2024,Layoff Permanent,,,,Los Angeles County,,9300 Culver Blvd Culver City CA 90232
+California,Amazon,Culver City,13,01/29/2024,03/11/2024,Layoff Permanent,,,,Los Angeles County,,100 Corporate Pointe Culver City CA 90230
+California,"Twitch Interactive, Inc. SFO19 Facility",San Francisco,218,01/26/2024,04/01/2024,Layoff Permanent,,,,San Francisco County,,350 Bush St. San Francisco CA 94104
+New Jersey,Audible Inc.,Newark,62,01/01/2024,04/10/2024,,,,,,,
+California,Amazon,San Francisco,57,12/05/2023,01/16/2024,Layoff Permanent,,,,,,188 Spear St. 2nd Floor San Francisco CA 94105
+California,Amazon,Glendale,114,12/05/2023,01/02/2024,Closure Permanent,,,,,,889 Americana Way Glendale CA 91210
+Texas,Whole Food Market (Midtown Houston),Houston,110,11/08/2023,12/05/2023,,,,Gulf Coast WDA,Harris,,
+Ohio,Amazon,Columbus,90,11/02/2023,1/2/2024-1/23/2024,,,,,Franklin,,011-23-070
+Ohio,Whole Foods Market,Toledo,99,10/06/2023,12/05/2023,,,,,Lucas,,009-23-060
+New Jersey,Amazon (remote workers),Jersey City,2,05/01/2023,07/17/2023,,,,,,,
+New Jersey,Amazon (remote workers),Jersey City,36,05/01/2023,07/25/2023,,,,,,,
+New Jersey,Amazon (warehouse workers),Jersey City,55,05/01/2023,07/25/2023,,,,,,,
+California,Twitch,San Francisco,153,04/17/2023,06/02/2023,Layoff Permanent,,,,San Francisco County,,350 Bush St. San Francisco CA 94104
+Maryland,Whole Foods Market Mid-Atlantic Seafood Facility,,65,03/21/2023,05/20/2023,Plant Closure,,,Prince George's,,445220,
+New Hampshire,Amazon,Manchester,41,02/21/2023,04/19/2023,Layoff,Permanent,No,,Hillsborough,,
+California,Amazon,Santa Monica,16,01/20/2023,03/19/2023,Layoff Permanent,,,,Los Angeles County,,1620 26th St Santa Monica CA 90404
+California,Amazon,Santa Monica,39,01/20/2023,03/19/2023,Layoff Permanent,,,,Los Angeles County,,2425 Olympic Blvd Santa Monica CA 90404
+California,Amazon,Santa Monica,2,01/20/2023,03/19/2023,Layoff Permanent,,,,Los Angeles County,,808 Wilshire Blvd Santa Monica CA 90401
+California,Amazon,Sunnyvale,52,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1120 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,33,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1100 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,58,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1160 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,7,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,905 11th Avenue Sunnyvale CA 94089
+California,Amazon,Sunnyvale,5,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1100 Discovery Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,2,01/20/2023,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1140 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,10,01/20/2023,03/19/2023,Layoff Permanent,,,,Orange County,,40 Pacifica Suite 100 Irvine CA 92618
+California,Amazon,Irvine,1,01/20/2023,03/19/2023,Layoff Permanent,,,,Orange County,,123 Technology Dr Irvine CA 92618
+California,Amazon,Irvine,17,01/20/2023,03/19/2023,Layoff Permanent,,,,Orange County,,20 Pacifica Suite 900 Irvine CA 92618
+California,Amazon,Irvine,58,01/20/2023,03/19/2023,Layoff Permanent,,,,Orange County,,17300 Laguna Canyon Road Irvine CA 92618
+California,Amazon,San Diego,98,01/20/2023,03/19/2023,Layoff Permanent,,,,San Diego County,,10300 Campus Point Dr Suite 200 San Diego CA 92121
+California,Amazon,San Diego,2,01/20/2023,03/19/2023,Layoff Permanent,,,,San Diego County,,4575 La Jolla Village Drive San Diego CA 92122
+California,Amazon,San Francisco,1,01/20/2023,03/19/2023,Layoff Permanent,,,,San Francisco County,,200 Paul Ave #402 San Francisco CA 94124
+California,Amazon,San Francisco,20,01/20/2023,03/19/2023,Layoff Permanent,,,,San Francisco County,,475 Sansome St 10th floor San Francisco CA 94111
+California,Amazon,San Francisco,63,01/20/2023,03/19/2023,Layoff Permanent,,,,San Francisco County,,188 Spear St 2nd Floor San Francisco CA 94105
+California,Amazon,San Francisco,20,01/20/2023,03/19/2023,Layoff Permanent,,,,San Francisco County,,525 Market St San Francisco CA 94105
+Washington,Amazon,"Seattle, Bellevue","2,300",01/18/2023,03/19/2023,Layoff,Permanent,,,,,
+Minnesota,Amazon Warehouse,Shakopee,680,01/01/2023,03/31/2023,,Rapid Response in Progress,,,,Retail,
+California,Amazon,Sunnyvale,31,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1120 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,73,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1100 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,14,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1160 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,55,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,905 11th Avenue Sunnyvale CA 94089
+California,Amazon,Sunnyvale,44,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1100 Discovery Way Sunnyvale CA 94089
+California,Amazon,Sunnyvale,46,12/05/2022,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1140 Enterprise Way Sunnyvale CA 94089
+California,Amazon,Irvine,53,11/09/2022,01/04/2023,Layoff Permanent,,,,Orange County,,17871 Von Karman Ave Irvine CA 92614
+Illinois,Whole Foods Market-Englewood Store,Chicago,52,09/12/2022,11/13/2022,Closing,Permanent,No,Northeast 4,Cook,Retail Supermarkets,Not Provided
+Washington,Amazon Health Services,Seattle,159,09/07/2022,12/01/2022,Closure,Permanent,,,,,
+Maryland,Amazon,,190,08/26/2022,10/25/2022,Plant Closure,,,,,493110,
+Maryland,Amazon,,163,08/26/2022,10/25/2022,Plant Closure,,,,,493110,
+Illinois,Whole Foods Market,Chicago,128,05/02/2022,05/06/2022,Closing,Permanent,No,4,Cook,Retail Supermarket,Not Provided
+California,Whole Foods Market,Tarzana,117,05/02/2022,05/06/2022,Closure Permanent,,,,Los Angeles County,,"18700 Ventura Boulevard, Suite #190, Tarzana CA 91356"
+Kentucky,AMAZON IVSB - 3521 Point Pleasant,,150,04/01/2022,11/01/2022,Closure,,,Northern Kentucky,Boone,454110,
+California,Amazon Logistics - DLA3,Los Angeles,161,08/06/2021,09/28/2021,Closure Permanent,,,,Los Angeles County,,
+California,Amazon Logistics,Los Angeles,161,08/06/2021,09/28/2021,Closure Permanent,,,,Los Angeles County,,
+California,White Glove Logistics LLC - DFA5 (Amazon Station),South San Francisco,39,06/03/2021,06/24/2021,Closure Permanent,,,,San Mateo County,,
+California,Amazon.com Services Inc. - DLA4 facility,Chatsworth,156,04/29/2021,06/26/2021,Closure Permanent,,,,Los Angeles County,,
+Colorado,Orion Logistics LLC - Amazon Delivery Service Partner,,89,02/22/2021,12/27/2020,Other,,,Arapahoe/Douglas,,,Delivery Drivers
+Massachusetts,Whole Foods Market's North Atlantic Region (Bread and Circus Bakhouse Facility),Medford,,06/09/2020,04/01/2021,,,,,,,
+Alabama,WHOLE FOODS,Hoover,68,01/10/2020,03/08/2020,Closing,,,,,,
+North Carolina,Whole Foods Market Southern Region - BakeHouse,,102,01/08/2020,03/08/2020,Closure Permanent,,,,Wake County,,
+Massachusetts,"Urban Mobility Now, LLC (Amazon Fulfillment Station)",Milford,,09/12/2019,08/28/2020,,,,,,,
+Washington,Whole Foods Market,Vancouver,121,06/21/2019,08/18/2019,Closure,Permanent,,,,,
+New York,Instacart (at Whole Foods Market) Bedford Avenue,Brooklyn,43,03/13/2019,05/11/2019,Plant Closing,,,New York City,Kings,Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) Greenwich Street,New York,26,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) Columbus Circle,New York,32,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (95 East Houston Street),New York,21,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (4 Union Square),New York,21,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (808 Columbus Avenue),New York,16,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (1551 3rd Avenue),New York,20,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (West 125th Street),New York,21,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (E. 57th Street),New York,13,03/13/2019,05/11/2019,Plant Closing,,,New York City,"New York,",Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (7th Avenue),New York,21,03/13/2019,05/11/2019,Plant Closing,,,New York City,New York,Food Services/Delivery,Economic
+New York,Instacart (at Whole Foods Market) (7th Avenue),Brooklyn,1,03/13/2019,05/11/2019,Plant Closing,,,New York City,Kings,Food Services/Delivery,Economic
+Virginia,Amazon,Sterling,67,03/07/2018,05/06/2018,Layoff,Temporary,,Northern,,,
+New Jersey,Amazon,Jersey City,77,03/01/2018,05/31/2018,,,,,,,
+Kansas,Amazon,Lenexa,139,03/29/2017,,,,,3,,,
+Texas,Whole Foods Market-Bolm Rd.,Austin,40,03/02/2017,04/30/2017,,,,Capital Area WDA,Travis,,
+South Carolina,Amazon,North Charleston,149,02/15/2017,,Closure,,,,,,
+Arizona,Whole Foods,Phoenix,55,02/10/2017,,,,,5,,,
+Maryland,Whole Foods Market,,136,01/20/2017,02/12/2017,Plant Closure,,,8,,,"1521 Cabin Branch Rd, Landover, MD 20785"
+New York,Amazon Corporate LLC - My Habits Business,New York,89,04/21/2016,07/20/2016,Plant Closing,,,New York City,New York,Catalog and Mail Order House,Economic
+New York,Amazon Corporate LLC - My Habits Business,Brooklyn,5,04/21/2016,07/20/2016,Plant Closing,,,New York City,Kings,Catalog and Mail Order House,Economic
+Texas,Whole Foods Market-Houston,Houston,100,05/01/2015,07/03/2015,,,,Gulf Coast WDA,Harris,,
+Kansas,"Amazon.comKSDC, LLC",Coffeyville,634,10/16/2014,,,,,5,,,
+California,Whole Foods-Mrs. Gooch'S Natural Foods Market,Vernon,150,04/18/2013,,,,,,,,
+Texas,Whole Foods Market - Dallas Bakehouse,Dallas,70,01/02/2012,03/11/2012,,,,Dallas County WDA,Dallas,,
+California,Whole Foods Market,Sherman Oaks,59,09/09/2010,,,,,,,,
+Texas,Whole Foods Market - Southwest Distribution Center,Austin,60,07/27/2010,09/26/2010,,,,Capital Area WDB,Travis,,
+Indiana,Amazon,Munster,45,03/25/2009,05/25/2009,Closure,,,,,493110,General Warehousing and Storage
+Pennsylvania,Amazon,Chambersburg,88,03/01/2009,05/25/2009,Plant Closure,,,,Franklin,,
+Florida,"Whole Foods Market Group, Inc.",Melbourne,57,05/06/2008,06/02/2008,,,,,,Retail Trade,
+Texas,Whole Foods Market,Austin,52,04/15/2008,06/15/2008,,,,Capital Area WDB,Travis,,
+Georgia,Amazon.com,Mcdonough,442,,02/05/2001,,,,,Henry,,2000074C
+Georgia,Amazon-ATL5,Kennesaw,219,,04/01/2023,,,,4,Cobb,,GA202200067
+Georgia,Whole Foods Market,Braselton,53,,07/02/2018,,,,9,Jackson,,
+Georgia,Whole Foods Market,Augusta,70,,02/22/2017,,,,12,Richmond,,
+Georgia,Whole Foods Market,Roswell,149,,02/12/2017,,,,3,Fulton,,
