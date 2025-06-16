@@ -1,7 +1,7 @@
 # From Data to Product
 
 ## Overview
-From Data to Product is a platform designed to connect recently laid-off tech employees with verified and promising startups. The platform leverages public layoff data and curated startup job listings to help recruiters and job seekers find the best opportunities quickly and efficiently.
+Our project is a platform designed to connect recently laid-off tech employees with verified and promising startups. The platform leverages public layoff data and curated startup job listings to help recruiters and job seekers find the best opportunities quickly and efficiently.
 
 ## Features
 - **Verified Startups Only:** Only trusted and high-potential startups are featured.
