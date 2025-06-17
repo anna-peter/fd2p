@@ -1,0 +1,7 @@
+pandas
+plotly
+selenium
+numpy
+nbformat
+dash
+dash-bootstrap-components
