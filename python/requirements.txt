@@ -5,3 +5,4 @@ numpy
 nbformat
 dash
 dash-bootstrap-components
+matplotlib
