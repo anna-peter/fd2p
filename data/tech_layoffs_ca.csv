@@ -1,0 +1,421 @@
+State,Company,City,Number of Workers,WARN Received Date,Effective Date,Closure/Layoff,Temporary/Permanent,Union,Region,County,Industry,Notes,Received Date,"Effective
+  Date",Layoff/Closure,Month-Year,Month,Month name
+California,Amazon (SJC11 Facility),Sunnyvale,33.0,2025-05-15,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1100 Enterprise Way  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Amazon (SJC14 Facility),Sunnyvale,6.0,2025-05-15,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,905 11th Avenue  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Amazon (SJC31 Facility),Sunnyvale,5.0,2025-05-15,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1100 Discovery Way  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Amazon (SJC32 Facility),Sunnyvale,8.0,2025-05-15,07/07/2025,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1140 Enterprise Way  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Amazon,Thousand Oaks,76.0,2025-03-14,05/13/2025,Closure Permanent,,,,Ventura County,44-45 Retail Trade,140 Promenade Way  Thousand Oaks CA 91362,,,,2025-03,3.0,March
+California,Amazon,Woodland Hills,10.0,2025-01-15,03/09/2025,Closure Permanent,,,,Los Angeles County,44-45 Retail Trade,22001 Ventura Blvd  Woodland Hills CA 91364,,,,2025-01,1.0,January
+California,Amazon,Milpitas,57.0,2024-10-29,12/27/2024,Layoff Permanent,,,,Santa Clara County,44-45 Retail Trade,1860 Barber Lane  Milpitas CA 95035,,,,2024-10,10.0,October
+California,Amazon,Irvine,162.0,2024-09-09,11/07/2024,Layoff Permanent,,,,Orange County,48-49 Transportation and Warehousing,2006 McGaw Avenue  Irvine CA 92614,,,,2024-09,9.0,September
+California,Amazon,West Sacramento,159.0,2024-09-09,10/30/2024,Layoff Permanent,,,,Yolo County,48-49 Transportation and Warehousing,3640 Ramos Dr Suite 110  West Sacramento CA 95691,,,,2024-09,9.0,September
+California,Amazon,Vernon,54.0,2024-06-07,08/07/2024,Layoff Permanent,,,,Los Angeles County,,"5119 District Blvd, #100  Vernon CA 90058",,,,2024-06,6.0,June
+California,Amazon,4601 Newcastle Drive Stockton CA 95215,390.0,2024-05-28,07/30/2024,Layoff Permanent,,,,San Joaquin County,,,,,,2024-05,5.0,May
+California,Amazon,San Francisco,85.0,2024-05-01,06/27/2024,Closure Permanent,,,,San Francisco County,,888 Tennessee St.  San Francisco CA 94107,,,,2024-05,5.0,May
+California,"ABM General Services, Inc. at SBD 1 Amazon",Bloomington,49.0,2024-01-31,03/19/2024,Layoff Permanent,,,,San Bernardino County,,3388 S. Cactus Avenue Bloomington CA 92316,,,,2024-01,1.0,January
+California,"ABM General Services, Inc. at SNA 4 Amazon",Rialto,32.0,2024-01-31,03/19/2024,Layoff Permanent,,,,San Bernardino County,,2496 W. Walnut Avenue Rialto CA 92376,,,,2024-01,1.0,January
+California,"ABM General Services, Inc. at PSP 1 Amazon",Beaumont,86.0,2024-01-31,03/19/2024,Layoff Permanent,,,,Riverside County,,1010 W. Fourth Street Beaumont CA 92223,,,,2024-01,1.0,January
+California,"ABM General Services, Inc. at ONT 6 Amazon",Moreno Valley,52.0,2024-01-31,03/19/2024,Layoff Permanent,,,,Riverside County,,24208 San Michele Road Moreno Valley CA 92551,,,,2024-01,1.0,January
+California,"ABM General Services, Inc. at FAT 1 Amazon",Fresno,114.0,2024-01-31,03/19/2024,Layoff Permanent,,,,Fresno County,,3775 S. Orange Avenue Fresno CA 93725,,,,2024-01,1.0,January
+California,Amazon,Culver City,98.0,2024-01-29,03/11/2024,Layoff Permanent,,,,Los Angeles County,,9336 W. Washington Blvd Culver City CA 90232,,,,2024-01,1.0,January
+California,Amazon,Culver City,2.0,2024-01-29,03/11/2024,Layoff Permanent,,,,Los Angeles County,,9300 Culver Blvd Culver City CA 90232,,,,2024-01,1.0,January
+California,Amazon,Culver City,13.0,2024-01-29,03/11/2024,Layoff Permanent,,,,Los Angeles County,,100 Corporate Pointe Culver City CA 90230,,,,2024-01,1.0,January
+California,"Twitch Interactive, Inc. SFO19 Facility",San Francisco,218.0,2024-01-26,04/01/2024,Layoff Permanent,,,,San Francisco County,,350 Bush St. San Francisco CA 94104,,,,2024-01,1.0,January
+California,Amazon,San Francisco,57.0,2023-12-05,01/16/2024,Layoff Permanent,,,,,,188 Spear St. 2nd Floor San Francisco CA 94105,,,,2023-12,12.0,December
+California,Amazon,Glendale,114.0,2023-12-05,01/02/2024,Closure Permanent,,,,,,889 Americana Way Glendale CA 91210,,,,2023-12,12.0,December
+California,Twitch,San Francisco,153.0,2023-04-17,06/02/2023,Layoff Permanent,,,,San Francisco County,,350 Bush St. San Francisco CA 94104,,,,2023-04,4.0,April
+California,Amazon,Santa Monica,16.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Los Angeles County,,1620 26th St Santa Monica CA 90404,,,,2023-01,1.0,January
+California,Amazon,Santa Monica,39.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Los Angeles County,,2425 Olympic Blvd Santa Monica CA 90404,,,,2023-01,1.0,January
+California,Amazon,Santa Monica,2.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Los Angeles County,,808 Wilshire Blvd Santa Monica CA 90401,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,52.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1120 Enterprise Way Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,33.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1100 Enterprise Way Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,58.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1160 Enterprise Way Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,7.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,905 11th Avenue Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,5.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1100 Discovery Way Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,2.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Santa Clara County,,1140 Enterprise Way Sunnyvale CA 94089,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,10.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Orange County,,40 Pacifica Suite 100 Irvine CA 92618,,,,2023-01,1.0,January
+California,Amazon,Irvine,1.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Orange County,,123 Technology Dr Irvine CA 92618,,,,2023-01,1.0,January
+California,Amazon,Irvine,17.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Orange County,,20 Pacifica Suite 900 Irvine CA 92618,,,,2023-01,1.0,January
+California,Amazon,Irvine,58.0,2023-01-20,03/19/2023,Layoff Permanent,,,,Orange County,,17300 Laguna Canyon Road Irvine CA 92618,,,,2023-01,1.0,January
+California,Amazon,San Diego,98.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Diego County,,10300 Campus Point Dr Suite 200 San Diego CA 92121,,,,2023-01,1.0,January
+California,Amazon,San Diego,2.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Diego County,,4575 La Jolla Village Drive San Diego CA 92122,,,,2023-01,1.0,January
+California,Amazon,San Francisco,1.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Francisco County,,200 Paul Ave #402 San Francisco CA 94124,,,,2023-01,1.0,January
+California,Amazon,San Francisco,20.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Francisco County,,475 Sansome St 10th floor San Francisco CA 94111,,,,2023-01,1.0,January
+California,Amazon,San Francisco,63.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Francisco County,,188 Spear St 2nd Floor San Francisco CA 94105,,,,2023-01,1.0,January
+California,Amazon,San Francisco,20.0,2023-01-20,03/19/2023,Layoff Permanent,,,,San Francisco County,,525 Market St San Francisco CA 94105,,,,2023-01,1.0,January
+California,Amazon,Sunnyvale,31.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1120 Enterprise Way Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Sunnyvale,73.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1100 Enterprise Way Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Sunnyvale,14.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1160 Enterprise Way Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Sunnyvale,55.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,905 11th Avenue Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Sunnyvale,44.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1100 Discovery Way Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Sunnyvale,46.0,2022-12-05,01/17/2023,Layoff Permanent,,,,Santa Clara County,,1140 Enterprise Way Sunnyvale CA 94089,,,,2022-12,12.0,December
+California,Amazon,Irvine,53.0,2022-11-09,01/04/2023,Layoff Permanent,,,,Orange County,,17871 Von Karman Ave Irvine CA 92614,,,,2022-11,11.0,November
+California,Whole Foods Market,Tarzana,117.0,2022-05-02,05/06/2022,Closure Permanent,,,,Los Angeles County,,"18700 Ventura Boulevard, Suite #190, Tarzana CA 91356",,,,2022-05,5.0,May
+California,Amazon Logistics - DLA3,Los Angeles,161.0,2021-08-06,09/28/2021,Closure Permanent,,,,Los Angeles County,,,,,,2021-08,8.0,August
+California,Amazon Logistics,Los Angeles,161.0,2021-08-06,09/28/2021,Closure Permanent,,,,Los Angeles County,,,,,,2021-08,8.0,August
+California,White Glove Logistics LLC - DFA5 (Amazon Station),South San Francisco,39.0,2021-06-03,06/24/2021,Closure Permanent,,,,San Mateo County,,,,,,2021-06,6.0,June
+California,Amazon.com Services Inc. - DLA4 facility,Chatsworth,156.0,2021-04-29,06/26/2021,Closure Permanent,,,,Los Angeles County,,,,,,2021-04,4.0,April
+California,Whole Foods-Mrs. Gooch'S Natural Foods Market,Vernon,150.0,2013-04-18,,,,,,,,,,,,2013-04,4.0,April
+California,Whole Foods Market,Sherman Oaks,59.0,2010-09-09,,,,,,,,,,,,2010-09,9.0,September
+California,Apple Inc.,Santa Clara,371.0,,,,,,,Santa Clara County,,3689 Kifer Road Santa Clara CA 95051,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,11.0,,,,,,,Santa Clara County,,3000-3008 Kifer Road Santa Clara CA 95051,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,23.0,,,,,,,Santa Clara County,,2945 San Ysidro Way Santa Clara CA 95051,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,15.0,,,,,,,Santa Clara County,,2975 San Ysidro Way Santa Clara CA 95051,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,58.0,,,,,,,Santa Clara County,,1705 Wyatt Drive Santa Clara CA 95054,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,49.0,,,,,,,Santa Clara County,,3111 Coronado Drive Santa Clara CA 95054,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,35.0,,,,,,,Santa Clara County,,3250 Scott Blvd Santa Clara CA 95054,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,52.0,,,,,,,Santa Clara County,,3260 Scott Blvd Santa Clara CA 95054,04/02/2024,05/27/2024,Layoff Permanent,,,
+California,Apple Inc.,San Diego,121.0,,,,,,,San Diego County,,4445 Eastgate Mall San Diego CA 92121,01/29/2024,04/26/2024,Layoff Permanent,,,
+California,Apple Inc.,Santa Clara,190.0,,,,,,,Santa Clara,,,02/19/2019,04/16/2019,Layoff Permanent,,,
+California,"Meta Platforms, Inc.",Fremont,2.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0001: 6540 Kaiser Drive Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,18.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0116: 6623 Dumbarton Cir Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,34.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0117: 6611 Dumbarton Cir Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,26.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0118: 6591 Dumbarton Cir Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,12.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0119: 6520 Kaiser Drive Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,41.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0122: 6539 Dumbarton Cir Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,3.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE0126: 6750 Dumbarton Circle Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,4.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE6500: 6500 Paseo Padre Pkwy Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Fremont,3.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Alameda County,,FRE6530: 6530 Paseo Padre Pkwy Fremont CA 94555,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,3.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0001: 1 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,6.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0010: 10 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,39.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0012: 12 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,57.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0014: 14 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,70.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0016: 16 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,79.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0017: 17 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,25.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0018: 18 Hacker Way Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,114.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0020: Meta Wy Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,91.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0021: Meta Wy Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,118.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0022: 305 Constitution Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,30.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0023: 300 Constitution Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,32.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0024: 200 Jefferson Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,15.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0026: 180 Jefferson Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,57.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0028: 164 Jefferson Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,35.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0029: 220 Jefferson Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,42.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0062: 105 Constitution Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Menlo Park,53.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Mateo County,,MPK0063: 135 Constitution Dr Menlo Park CA 94025,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Sunnyvale,63.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Santa Clara County,,SUN0101: 1190 Discovery Wy Sunnyvale CA 94089,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Sunnyvale,17.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Santa Clara County,,SUN0102: 1180 Discovery Wy Sunnyvale CA 94089,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Sunnyvale,119.0,2023-05-08,06/23/2023,Layoff Permanent,,,,Santa Clara County,,SUN0103: 900 Discovery Wy Sunnyvale CA 94089,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",San Francisco,127.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Francisco County,,SAF0181: 181 Fremont Street San Francisco CA 94105,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",San Francisco,19.0,2023-05-08,06/23/2023,Layoff Permanent,,,,San Francisco County,,SAF0250: 250 Howard St San Francisco CA 94105,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Burlingame,44.0,2023-05-04,06/23/2023,Layoff Permanent,,,,San Mateo County,,BUR0101: 333 Airport Blvd Burlingame CA 94010,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Burlingame,27.0,2023-05-04,06/23/2023,Layoff Permanent,,,,San Mateo County,,BUR0102: 322 Airport Blvd Burlingame CA 94010,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Burlingame,40.0,2023-05-04,06/23/2023,Layoff Permanent,,,,San Mateo County,,BUR0103: 312 Airport Blvd Burlingame CA 94010,,,,2023-05,5.0,May
+California,"Meta Platforms, Inc.",Burlingame,41.0,2023-05-04,06/23/2023,Layoff Permanent,,,,San Mateo County,,BUR0105: 311 Airport Blvde Burlingame CA 94010,,,,2023-05,5.0,May
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,34.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,22.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,9.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,4.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,3.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,8.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,1.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,1.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,1.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,16.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,10.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,Flagship Facility Services Inc. at Meta Platforms Inc.,Menlo Park,17.0,2023-01-10,03/06/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-01,1.0,January
+California,"Meta Platforms, Inc.",Fremont,25.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,7.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,64.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,18.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,13.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,14.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Fremont,3.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Alameda County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Burlingame,67.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Burlingame,32.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Burlingame,34.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Burlingame,46.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,85.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,32.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,139.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,241.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,140.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,142.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,60.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,632.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,77.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Menlo Park,94.0,2022-12-02,01/13/2023,Layoff Permanent,,,,San Mateo County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Sunnyvale,98.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Sunnyvale,139.0,2022-12-02,01/13/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2022-12,12.0,December
+California,"Meta Platforms, Inc.",Los Angeles,162.0,2022-11-16,01/13/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2022-11,11.0,November
+California,"Meta Platforms, Inc.",San Francisco,362.0,2022-11-16,01/13/2023,Layoff Permanent,,,,San Francisco County,,,,,,2022-11,11.0,November
+California,"Astreya Partners, LLC at Meta Platforms Inc. facility",Newark,144.0,2022-10-18,11/18/2022,Layoff Permanent,,,,Alameda County,,,,,,2022-10,10.0,October
+California,"ABM Industry Groups, LLC dba Meta",Menlo Park,368.0,2022-07-11,07/24/2022,Layoff Permanent,,,,San Mateo County,,,,,,2022-07,7.0,July
+California,Restec Contractors Inc. at Facebook 0250 29- 43,San Francisco,6.0,2020-04-29,03/17/2020,Layoff Temporary,,,,San Francisco County,,,,,,2020-04,4.0,April
+California,Restec Contractors Inc. at Facebook FRE 114,Fremont,1.0,2020-04-29,03/17/2020,Layoff Temporary,,,,Alameda County,,,,,,2020-04,4.0,April
+California,Restec Contractors Inc. at Facebook SUN101 HVAC,Sunnyvale,1.0,2020-04-29,03/17/2020,Layoff Temporary,,,,Santa Clara County,,,,,,2020-04,4.0,April
+California,Anning-Johnson Company-Facebook,Sunnyvale,25.0,2020-04-27,03/17/2020,Layoff Temporary,,,,Santa Clara County,,,,,,2020-04,4.0,April
+California,"Meta Platforms, Inc.",Los Angeles,35.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Los Angeles,73.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,16.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,122.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,31.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",San Francisco,8.0,2023-06-21,07/28/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",San Francisco,304.0,2023-06-21,07/28/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,19.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,44.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,8.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,1.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,2.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,13.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,2.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,15.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,7.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,2.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Fremont,4.0,2023-06-23,07/28/2023,Layoff Permanent,,,,Alameda County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,15.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Benito County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,47.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,5.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,3.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,58.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,8.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,1.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,58.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,68.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,40.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,7.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,4.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,14.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,89.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,5.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,4.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,17.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,40.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Menlo Park,45.0,2023-06-26,07/28/2023,Layoff Permanent,,,,San Mateo County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Los Angeles,35.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Los Angeles,73.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,16.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,122.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",Sunnyvale,31.0,2023-06-21,07/28/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",San Francisco,8.0,2023-06-21,07/28/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-06,6.0,June
+California,"Meta Platforms, Inc.",San Francisco,304.0,2023-06-21,07/28/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-06,6.0,June
+California,Google - Borregas,Sunnyvale,11.0,2025-05-29,07/06/2025,Layoff Permanent,,,,Santa Clara County,54 Professional Scientific and Technical Services,1265 Borregas Avenue  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Google - Bordeaux,Sunnyvale,33.0,2025-05-29,07/06/2025,Layoff Permanent,,,,Santa Clara County,54 Professional Scientific and Technical Services,1190 Bordeaux Drive  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Google - Borregas,Sunnyvale,1.0,2025-05-29,07/06/2025,Layoff Permanent,,,,Santa Clara County,54 Professional Scientific and Technical Services,1195 Borregas Drive  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Google - Moffett,Sunnyvale,8.0,2025-05-29,07/06/2025,Layoff Permanent,,,,Santa Clara County,54 Professional Scientific and Technical Services,237 Moffett Park Drive  Sunnyvale CA 94089,,,,2025-05,5.0,May
+California,Google,Irvine,10.0,2025-02-27,04/27/2025,Layoff Permanent,,,,Orange County,54 Professional Scientific and Technical Services,19510 Jamboree Road  Irvine CA 92612,,,,2025-02,2.0,February
+California,Google,Irvine,42.0,2025-02-27,04/06/2025,Layoff Permanent,,,,Orange County,54 Professional Scientific and Technical Services,19520 Jamboree Road  Irvine CA 92612,,,,2025-02,2.0,February
+California,Google US-SFO-1MST,San Francisco,6.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,55 Spear Street San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-FERRY,San Francisco,3.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,One Ferry Building San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-FRE199,San Francisco,1.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,199 Fremont St San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-FRE215,San Francisco,14.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,215 Fremont St San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-MKT1,San Francisco,1.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,1 Market Street San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-SPE,San Francisco,26.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,345 Spear Street San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SFO-SPEAR121,San Francisco,6.0,2024-05-08,06/09/2024,Layoff Permanent,,,,San Francisco County,,121 Spear Street San Francisco CA 94105,,,,2024-05,5.0,May
+California,Google US-SVL-CRSM1225,Sunnyvale,18.0,2024-05-01,06/15/2024,Layoff Permanent,,,,Santa Clara County,,1225 Crossman Avenue  Sunnyvale CA 94089,,,,2024-05,5.0,May
+California,Google US-SVL-CRSM1260,Sunnyvale,3.0,2024-05-01,06/15/2024,Layoff Permanent,,,,Santa Clara County,,1260 Crossman Avenue  Sunnyvale CA 94089,,,,2024-05,5.0,May
+California,Google US-SVL-CRSM1265,Sunnyvale,29.0,2024-05-01,06/15/2024,Layoff Permanent,,,,Santa Clara County,,1265 Crossman Avenue  Sunnyvale CA 94089,,,,2024-05,5.0,May
+California,Google US-MTV-RLS1,Mountain View,57.0,2024-02-06,03/04/2024,Layoff Permanent,,,,Santa Clara County,,100 Mayfield Ave Mountain View CA 94043,,,,2024-02,2.0,February
+California,Google US-MTV-RLS2,Mountain View,16.0,2024-02-06,03/04/2024,Layoff Permanent,,,,Santa Clara County,,250 Mayfield Ave Mountain View CA 94043,,,,2024-02,2.0,February
+California,Google US-SFO-1MST,San Francisco,42.0,2024-01-25,03/10/2024,Layoff Permanent,,,,San Francisco County,,55 Spear Street San Francisco CA 94105,,,,2024-01,1.0,January
+California,Google US-SFO-FRE215,San Francisco,23.0,2024-01-25,03/10/2024,Layoff Permanent,,,,San Francisco County,,215 Fremont St San Francisco CA 94105,,,,2024-01,1.0,January
+California,Google US-SFO-MKT1,San Francisco,14.0,2024-01-25,03/10/2024,Layoff Permanent,,,,San Francisco County,,1 Market Street San Francisco CA 94105,,,,2024-01,1.0,January
+California,Google US-SFO-SPE,San Francisco,26.0,2024-01-25,03/10/2024,Layoff Permanent,,,,San Francisco County,,345 Spear Street San Francisco CA 94105,,,,2024-01,1.0,January
+California,Google US-SVL-CRSM1225,Sunnyvale,59.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1225 Crossman Avenue Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-SVL-CRSM1260,Sunnyvale,11.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1260 Crossman Avenue Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-SVL-CRSM1265,Sunnyvale,32.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1265 Crossman Avenue Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-SVL-HMBLT1,Sunnyvale,2.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,242 Humboldt Court Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-SVL-HMBLT3,Sunnyvale,32.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,227 Humboldt Court Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-SVL-HMBLT4,Sunnyvale,25.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,225 Humboldt Court Sunnyvale CA 94089,,,,2024-01,1.0,January
+California,Google US-MTV-1900,Mountain View,1.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1900 Charleston Road Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-1945,Mountain View,5.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1945 Charleston Road Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-1950,Mountain View,8.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1950 Charleston Road Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-1965,Mountain View,14.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1965 Charleston Road Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-2000,Mountain View,28.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,2000 Charleston Road Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-40,Mountain View,1.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,"1600 Amphitheatre Parkway, Building 40 Mountain View CA 94043",,,,2024-01,1.0,January
+California,Google US-MTV-41,Mountain View,80.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,"1600 Amphitheatre Parkway, Building 41 Mountain View CA 94043",,,,2024-01,1.0,January
+California,Google US-MTV-42,Mountain View,84.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,"1600 Amphitheatre Parkway, Building 42 Mountain View CA 94043",,,,2024-01,1.0,January
+California,Google US-MTV-43,Mountain View,12.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,"1600 Amphitheatre Parkway, Building 43 Mountain View CA 94043",,,,2024-01,1.0,January
+California,Google US-MTV-CL2,Mountain View,25.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1200 Crittenden Lane Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-CL3,Mountain View,14.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1300 Crittenden Lane Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-CL4,Mountain View,5.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1400 Crittenden Lane Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-CL5,Mountain View,19.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,1500 Crittenden Lane Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-STLN2027,Mountain View,35.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,2027 Stierlin Court Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-STLN2029,Mountain View,2.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,2029 Stierlin Court Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-STLN2051,Mountain View,1.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,2051 Stierlin Court Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google US-MTV-STLN2061,Mountain View,28.0,2024-01-25,03/10/2024,Layoff Permanent,,,,Santa Clara County,,2061 Stierlin Court Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google,Mountain View,73.0,2024-01-17,08/09/2024,Closure Permanent,,,,Santa Clara County,,325 Gladys Avenue Mountain View CA 94043,,,,2024-01,1.0,January
+California,Google,San Francisco,41.0,2023-10-30,11/25/2023,Layoff Permanent,,,,San Francisco County,,199 Fremont San Francisco CA 94105,,,,2023-10,10.0,October
+California,Google,San Francisco,34.0,2023-10-30,11/25/2023,Layoff Permanent,,,,San Francisco County,,215 Fremont St San Francisco CA 94105,,,,2023-10,10.0,October
+California,Waymo LLC,Mountain View,111.0,2023-03-03,05/05/2023,Layoff Permanent,,,,Santa Clara County,,100 Mayfield Avenue Mountain View CA 94043,,,,2023-03,3.0,March
+California,Waymo LLC,Mountain View,1.0,2023-03-03,05/05/2023,Layoff Permanent,,,,Santa Clara County,,680 East Middlefield Road Mountain View CA 94043,,,,2023-03,3.0,March
+California,Google (US-SAN-6420),San Diego,45.0,2023-01-30,03/31/2023,Layoff Permanent,,,,San Diego County,,"6420 Sequence Drive, Suite 400 San Diego CA 92121",,,,2023-01,1.0,January
+California,Google (US-SAN-INN15255),San Diego,26.0,2023-01-30,03/31/2023,Layoff Permanent,,,,San Diego County,,15255 Innovation Drive San Diego CA 92128,,,,2023-01,1.0,January
+California,Google (US-SAN-WBD16618),San Diego,1.0,2023-01-30,03/31/2023,Layoff Permanent,,,,San Diego County,,16618 West Bernardo Dr. San Diego CA 92127,,,,2023-01,1.0,January
+California,Google,Mountain View,140.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1201 Charleston Rd Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,8.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1210 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,6.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1215 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,3.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1220 Charleston Rd Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,21.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1225 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,17.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1230 Charleston Rd Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,24.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1245 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,19.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1295 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,8.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1300 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,18.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1350 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,8.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1395 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,20.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1600 Plymouth Street Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,2.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1667 Plymouth Street Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,4.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1708 North Shoreline Boulevard Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,11.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1808 North Shoreline Boulevard Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,31.0,2023-01-24,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1842 North Shoreline Blvd Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google LA 5,Los Angeles,22.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,350 Main Street US-LAX-BIN2 Los Angeles CA 90291,,,,2023-01,1.0,January
+California,Google LA 5,Los Angeles,6.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,321 Hampton Drive US-LAX-BIN3 Los Angeles CA 90291,,,,2023-01,1.0,January
+California,Google LA 2,Los Angeles,2.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,300 Rose Avenue US-LAX-BIN4 Los Angeles CA 90291,,,,2023-01,1.0,January
+California,Google LA 3,Los Angeles,4.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,320 Hampton Drive US-LAX-BIN5 Los Angeles CA 90291,,,,2023-01,1.0,January
+California,Google LA 1,Los Angeles,5.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,248 Main Street US-LAX-BIN7 Los Angeles CA 90291,,,,2023-01,1.0,January
+California,Google Playa 2,Playa Vista,123.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,5865 Campus Center Drive US-PLV-H15 Playa Vista CA 90094,,,,2023-01,1.0,January
+California,Google Playa 1,Playa Vista,1.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Los Angeles County,,12422 West Bluff Creek Drive US-PLV-H17 Playa Vista CA 90094,,,,2023-01,1.0,January
+California,Google,San Bruno,20.0,2023-01-23,03/31/2023,Layoff Permanent,,,,San Mateo County,,1100 Grundy Lane San Bruno CA 94066,,,,2023-01,1.0,January
+California,Google,San Bruno,31.0,2023-01-23,03/31/2023,Layoff Permanent,,,,San Mateo County,,900 Cherry Avenue San Bruno CA 94066,,,,2023-01,1.0,January
+California,Google,San Bruno,40.0,2023-01-23,03/31/2023,Layoff Permanent,,,,San Mateo County,,901 Cherry Avenue San Bruno CA 94066,,,,2023-01,1.0,January
+California,Google,San Bruno,24.0,2023-01-23,03/31/2023,Layoff Permanent,,,,San Mateo County,,999-1001 Bayhill Dr. San Bruno CA 94066,,,,2023-01,1.0,January
+California,Google,Palo Alto,50.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,3400 Hillview Avenue US-PAO-HV1 Palo Alto CA 94304,,,,2023-01,1.0,January
+California,Google,Palo Alto,2.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,4005 Miranda Avenue US-PAO-MIR2 Palo Alto CA 94304,,,,2023-01,1.0,January
+California,Google,Moffet Field,62.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,100 Bay View Drive Moffet Field CA 94035,,,,2023-01,1.0,January
+California,Google,Moffet Field,41.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,200 Bay View Drive Moffett Field CA 94035,,,,2023-01,1.0,January
+California,Google,Mountain View,30.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1015 Joaquin Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,6.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1055 Joaquin Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,18.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1098 Alta Avenue Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,5.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1161 San Antonio Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Mountain View,17.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Santa Clara County,,1200 Charleston Road Mountain View CA 94043,,,,2023-01,1.0,January
+California,Google,Irvine,32.0,2023-01-23,03/31/2023,Layoff Permanent,,,,Orange County,,19520 Jamboree Road Irvine CA 92612,,,,2023-01,1.0,January
+California,Verily Life Sciences LLC,San Francisco,119.0,2023-01-12,03/12/2023,Layoff Permanent,,,,San Mateo County,,269 E. Grand Avenue South San Francisco CA 94080,,,,2023-01,1.0,January
+California,"Fitbit, Inc.",San Francisco,90.0,2017-02-07,04/03/2017,Layoff Permanent,,,,,,,,,,2017-02,2.0,February
+California,"Fitbit, Inc.",South San Francisco,2.0,2017-02-07,04/03/2017,Layoff Permanent,,,,,,,,,,2017-02,2.0,February
+California,Google,Mountain View,104.0,2017-02-01,04/03/2017,Layoff Permanent,,,,,,,,,,2017-02,2.0,February
+California,Google Inc.,Mountain View,94.0,2017-01-13,03/13/2017,Layoff Permanent,,,,,,,,,,2017-01,1.0,January
+California,"Google, Inc (Ranstad's Temp Ees)",Mountain View,84.0,2013-09-13,,,,,,,,,,,,2013-09,9.0,September
+California,"Randstad (Google, Inc.)",Mountain View,30.0,2013-07-24,,,,,,,,,,,,2013-07,7.0,July
+California,Randstad (Google Assignment),Mountain View,36.0,2013-06-11,,,,,,,,,,,,2013-06,6.0,June
+California,Randstad (Temp Assgn W/Google),Mountain View,31.0,2013-04-09,,,,,,,,,,,,2013-04,4.0,April
+California,"Randstad (Google,Inc.)",Mountain View,314.0,2011-10-02,,,,,,,,,,,,2011-10,10.0,October
+California,Microsoft - 1045,Mountain View,7.0,2025-06-02,08/01/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1045 La Avenida  Mountain View CA 94043,,,,2025-06,6.0,June
+California,Microsoft - 445 & 455,Sunnyvale,1.0,2025-06-02,08/01/2025,Layoff Permanent,,,,Santa Clara County,51 Information,445 & 455 North Mary Avenue  Sunnyvale CA 94085,,,,2025-06,6.0,June
+California,LinkedIn Corporation,San Francisco,60.0,2025-05-28,05/15/2025,Layoff Permanent,,,,San Francisco County,51 Information,222 Second Street  San Francisco CA 94105,,,,2025-05,5.0,May
+California,LinkedIn Corporation,Carpintiera,11.0,2025-05-28,05/15/2025,Layoff Permanent,,,,Santa Barbara County,51 Information,6410 Via Real  Carpinteria CA 93013,,,,2025-05,5.0,May
+California,LinkedIn Corporation,Sunnyvale,51.0,2025-05-28,05/15/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1000 W. Maude Avenue  Sunnyvale CA 94085,,,,2025-05,5.0,May
+California,LinkedIn Corporation,Mountain View,159.0,2025-05-28,05/15/2025,Layoff Permanent,,,,Santa Clara County,51 Information,700 E. Middlefield Road  Mountain View CA 94043,,,,2025-05,5.0,May
+California,Microsoft - 770,Mountain View,1.0,2025-05-14,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,770 E Middlefield  Mountain View CA 94043,,,,2025-05,5.0,May
+California,Microsoft - 3201,Santa Clara,3.0,2025-05-14,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,3201 Scott Blvd  Santa Clara CA 95054,,,,2025-05,5.0,May
+California,Microsoft - 1045,Mountain View,82.0,2025-05-14,07/12/2025,Layoff Permanent,,,,Santa Clara County,51 Information,1045 La Avenida  Mountain View CA 94043,,,,2025-05,5.0,May
+California,Activision Blizzard,Los Angeles,143.0,2024-09-13,11/15/2024,Layoff Permanent,,,,Los Angeles County,54 Professional Scientific and Technical Services,13031 W. Jefferson Blvd Suite 200  Los Angeles CA 90094,,,,2024-09,9.0,September
+California,Activision Blizzard,Santa Monica,110.0,2024-09-13,10/11/2024,Layoff Permanent,,,,Los Angeles County,56 Administrative and Support and Waste Management and Remediation,"2701 Olympic Blvd, Building B  Santa Monica CA 90404",,,,2024-09,9.0,September
+California,Activision Blizzard,Irvine,140.0,2024-09-13,10/11/2024,Layoff Permanent,,,,Orange County,56 Administrative and Support and Waste Management and Remediation,16215 Alton Pkwy  Irvine CA 92618,,,,2024-09,9.0,September
+California,Activision Blizzard,Santa Monica,9.0,2024-05-10,06/07/2024,Layoff Permanent,,,,Los Angeles County,,"2701 Olympic Blvd, Building B Santa Monica CA 90404",,,,2024-05,5.0,May
+California,Activision Blizzard,Santa Monica,5.0,2024-05-10,06/07/2024,Layoff Permanent,,,,Los Angeles County,,2450 Colorado Avenue Santa Monica CA 90404,,,,2024-05,5.0,May
+California,Activision Blizzard,Woodland Hills,1.0,2024-04-12,06/07/2024,Layoff Permanent,,,,Los Angeles County,,"21255 Burbank Blvd, Suite 600 Woodland Hills CA 91367",,,,2024-04,4.0,April
+California,Activision Blizzard,Irvine,18.0,2024-04-12,06/07/2024,Layoff Permanent,,,,Orange County,,16215 Alton Pkwy Irvine CA 92618,,,,2024-04,4.0,April
+California,Activision Blizzard,Woodland Hills,49.0,2024-02-02,03/30/2024,Layoff Permanent,,,,Los Angeles County,,21255 Burbank Blvd Suite 600 Woodland Hills CA 91367,,,,2024-02,2.0,February
+California,Activision Blizzard,Santa Monica,79.0,2024-02-02,03/30/2024,Layoff Permanent,,,,Los Angeles County,,2701 Olympic Blvd Building B Santa Monica CA 90404,,,,2024-02,2.0,February
+California,Activision Blizzard,Santa Monica,130.0,2024-02-02,03/30/2024,Layoff Permanent,,,,Los Angeles County,,2450 Colorado Ave. Santa Monica CA 90404,,,,2024-02,2.0,February
+California,Activision Blizzard,Irvine,479.0,2024-02-02,03/30/2024,Layoff Permanent,,,,Orange County,,16215 Alton Pkwy Irvine CA 92618,,,,2024-02,2.0,February
+California,Activision Blizzard,Novato,86.0,2024-02-02,03/30/2024,Layoff Permanent,,,,Marin County,,4 Hamilton Landing Suite 210 Novato CA 94949,,,,2024-02,2.0,February
+California,Activision Blizzard,San Mateo,76.0,2024-02-02,03/30/2024,Layoff Permanent,,,,San Mateo County,,1001 E Hillside Blvd. Ste. 610 San Mateo CA 94404,,,,2024-02,2.0,February
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,349.0,2024-01-19,12/15/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2024-01,1.0,January
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,42.0,2024-01-19,12/15/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2024-01,1.0,January
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,42.0,2024-01-19,12/15/2023,Layoff Permanent,,,,San Francisco County,,,,,,2024-01,1.0,January
+California,LinkedIn Corporation,6410 Via Real Carpinteria CA 93013,5.0,2024-01-19,12/15/2023,Layoff Permanent,,,,Santa Barbara County,,,,,,2024-01,1.0,January
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,102.0,2023-07-24,06/09/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-07,7.0,July
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,13.0,2023-07-24,06/09/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-07,7.0,July
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,72.0,2023-07-24,06/09/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-07,7.0,July
+California,Microsoft,1045 La Avenida Mountain View CA 94043,40.0,2023-07-10,09/08/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-07,7.0,July
+California,Microsoft,1045 La Avenida Mountain View CA 94043,2.0,2023-07-07,08/04/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-07,7.0,July
+California,Microsoft,1045 La Avenida Mountain View CA 94043,19.0,2023-04-03,05/26/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-04,4.0,April
+California,Microsoft,2820 Northwestern Parkway Santa Clara CA 95051,1.0,2023-04-03,05/26/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-04,4.0,April
+California,Microsoft,11 Great Oaks Blvd San Jose CA 95138,1.0,2023-04-03,05/26/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-04,4.0,April
+California,Microsoft,1045 La Avenida Mountain View CA 94043,54.0,2023-03-20,05/05/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-03,3.0,March
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,1.0,2023-03-20,05/05/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-03,3.0,March
+California,Microsoft,11 Great Oaks Blvd San Jose CA 95138,1.0,2023-03-20,05/05/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-03,3.0,March
+California,LinkedIn Corporation,1000 W. Maude Avenue Sunnyvale CA 94085,49.0,2023-02-27,02/13/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,LinkedIn Corporation,700 E. Middlefield Road Mountain View CA 94043,3.0,2023-02-27,02/13/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,LinkedIn Corporation,222 Second Street San Francisco CA 94105,39.0,2023-02-27,02/13/2023,Layoff Permanent,,,,San Francisco County,,,,,,2023-02,2.0,February
+California,Microsoft,770 E. Middlefield Road Mountain View CA 94043,7.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,2820 Northwestern Parkway Santa Clara CA 95051,1.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,2401 Walsh Avenue Santa Clara CA 95051,1.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,880 E. Middlefield Road Mountain View CA 94043,1.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1090 La Avenida Mountain View CA 94043,2.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1045 La Avenida Mountain View CA 94043,41.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,9.0,2023-02-13,04/10/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1045 La Avenida Mountain View CA 94043,41.0,2023-02-08,03/20/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1090 La Avenida Mountain View CA 94043,1.0,2023-02-08,03/20/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,1288 Pear Ave Mountain View CA 94043,3.0,2023-02-08,03/20/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Microsoft,"2220 De La Cruz Blvd., Bldg 1 Santa Clara CA 95050",1.0,2023-02-08,03/20/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2023-02,2.0,February
+California,Blizzard Entertainment Inc.,Irvine,55.0,2021-03-23,03/16/2021,Layoff Permanent,,,,Orange County,,,,,,2021-03,3.0,March
+California,Linkedin Corporation,Sunnyvale,29.0,2020-09-03,08/21/2020,Layoff Permanent,,,,Santa Clara County,,,,,,2020-09,9.0,September
+California,Sodexo dba Artisan Restaurant Collection at LinkedIn,San Francisco,52.0,2020-06-25,06/30/2020,Layoff Permanent,,,,San Francisco County,,,,,,2020-06,6.0,June
+California,Sodexo dba Artisan Restaurant Collection at LinkedIn,San Francisco,86.0,2020-06-16,03/13/2020,Layoff Temporary,,,,San Francisco County,,,,,,2020-06,6.0,June
+California,US Perma Inc. dba California Tile Installers at Microsoft,Mountain View,25.0,2020-04-17,03/17/2020,Layoff Temporary,,,,Santa Clara County,,,,,,2020-04,4.0,April
+California,"Blizzard Entertainment, Inc.",Irvine,209.0,2019-02-15,04/13/2019,Layoff Permanent,,,,Orange County,,,,,,2019-02,2.0,February
+California,"Activision Publishing, Inc. (Activision)",Fresno,50.0,2018-01-09,01/05/2018,Closure Permanent,,,,Fresno County,,,,,,2018-01,1.0,January
+California,Nokia USA Inc.,Sunnyvale,72.0,2017-10-19,12/21/2017,Layoff Permanent,,,,Santa Clara,,,,,,2017-10,10.0,October
+California,Microsoft Corporation,San Diego,2.0,2016-01-20,03/20/2016,Closure Permanent,,,,,,,,,,2016-01,1.0,January
+California,Microsoft Corporation,San Diego,4.0,2015-10-21,12/20/2015,Closure Unknown at this time,,,,,,,,,,2015-10,10.0,October
+California,Microsoft Corporation,San Diego,129.0,2015-07-08,09/06/2015,Layoff Permanent,,,,,,,,,,2015-07,7.0,July
+California,Microsoft and Nokia Inc.,Sunnyvale,13.0,2014-11-06,12/28/2014,Layoff Permanent,,,,,,,,,,2014-11,11.0,November
+California,Microsoft and Nokia Inc.,Mountain View,8.0,2014-11-04,12/28/2014,Layoff Permanent,,,,,,,,,,2014-11,11.0,November
+California,Microsoft and Nokia Inc.,San Diego,154.0,2014-10-31,12/28/2014,Layoff Permanent,,,,,,,,,,2014-10,10.0,October
+California,"Microsoft and Nokia, Inc.",Mountain View,94.0,2014-09-25,11/17/2014,Layoff Permanent,,,,,,,,,,2014-09,9.0,September
+California,"Microsoft and Nokia, Inc.",Sunnyvale,53.0,2014-09-25,11/17/2014,Layoff Permanent,,,,,,,,,,2014-09,9.0,September
+California,"Microsoft and Nokia, Inc.",San Diego,13.0,2014-09-25,11/17/2014,Layoff Permanent,,,,,,,,,,2014-09,9.0,September
+California,"Microsoft and Nokia, Inc.",San Diego,378.0,2014-07-17,09/15/2014,Layoff Permanent,,,,,,,,,,2014-07,7.0,July
+California,"Blizzard Entertainment, Inc.",Irvine,45.0,2012-04-28,,,,,,,,,,,,2012-04,4.0,April
+California,"Blizzard Entertainment, Inc.",Irvine,155.0,2012-04-28,,,,,,,,,,,,2012-04,4.0,April
+California,"Activision, Inc",El Segundo,56.0,2011-04-12,,,,,,,,,,,,2011-04,4.0,April
+California,"Activision, Inc.",Santa Monica,115.0,2011-04-12,,,,,,,,,,,,2011-04,4.0,April
+California,"Activision, Inc. California 7 Studios, Inc.",Santa Monica,29.0,2011-04-12,,,,,,,,,,,,2011-04,4.0,April
+California,Activision Blizzard,Los Angeles,4.0,2009-01-31,,,,,,,,,,,,2009-01,1.0,January
+California,"Tesla, Inc.",Fremont,164.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd Fremont CA 94538,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Fremont,65.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Alameda County,,47700 Kato Road Fremont CA 94538,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Palo Alto,53.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Santa Clara County,,1501 Page Mill Road Palo Alto CA 94304,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Palo Alto,52.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Santa Clara County,,3000 Hanover Street Palo Alto CA 94304,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Fremont,149.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Santa Clara County,,901 Page Avenue Fremont CA 94538,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Palo Alto,118.0,2024-05-13,06/20/2024,Layoff Permanent,,,,Santa Clara County,,3500 Deer Creek Road Palo Alto CA 94304,,,,2024-05,5.0,May
+California,"Tesla, Inc.",Fremont,1452.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,25.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Alameda County,,47623 Fremont Blvd Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,11.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Alameda County,,4170 Business Center Drive Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,8.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Alameda County,,3777 Spinnaker Court Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,6.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Alameda County,,44320-44350 Nobel Drive Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Burbank,6.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Los Angeles County,,633 S. San Fernando Blvd Burbank CA 91502,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Burbank,28.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Los Angeles County,,"3022 Kenwood Street, Suite E Burbank CA 91505",,,,2024-04,4.0,April
+California,"Tesla, Inc.",Burbank,30.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Los Angeles County,,811 S. San Fernando Blvd Burbank CA 91502,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,9.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,701 D&rsquo;Arcy Pkwy Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,77.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,17100 Murphy Parkway Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,49.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,18250 Murphy Parkway Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,23.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,5150 Glacier Street Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,24.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,500 E Louise Avenue Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,17.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,401 Nestle Way Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,32.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,18260 S Harlan Road Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Lathrop,284.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,700 D&rsquo;Arcy Pkwy Lathrop CA 95330,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,1.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,1220 Page Avenue Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,3.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47811 Warm Springs Blvd Fremont CA 94539,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,17.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,48370 Kato Road Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,19.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,1055 Page Avenue Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,108.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47400 Kato Road Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,214.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,47700 Kato Road Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,403.0,2024-04-25,06/14/2024,Layoff Permanent,,,,San Joaquin County,,901 Page Avenue Fremont CA 94538,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Palo Alto,155.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Santa Clara County,,3500 Deer Creek Road Palo Alto CA 94304,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Palo Alto,237.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Santa Clara County,,1501 Page Mill Road Palo Alto CA 94304,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Palo Alto,81.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Santa Clara County,,3000 Hanover Street Palo Alto CA 94304,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Palo Alto,11.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Santa Clara County,,4180 El Camino Real Palo Alto CA 94306,,,,2024-04,4.0,April
+California,"Tesla, Inc.",Palo Alto,2.0,2024-04-25,06/14/2024,Layoff Permanent,,,,Santa Clara County,,"660 Stanford Shopping Center, Suite 359B Palo Alto CA 94304",,,,2024-04,4.0,April
+California,"Tesla, Inc.",Fremont,20.0,2022-07-12,08/27/2022,Layoff Permanent,,,,Alameda County,,901 Page Avenue Fremont CA 94538,,,,2022-07,7.0,July
+California,"Tesla, Inc.",Fremont,5.0,2022-07-12,08/27/2022,Layoff Permanent,,,,Alameda County,,47700 Kato Road Fremont CA 94538,,,,2022-07,7.0,July
+California,"Tesla, Inc.",Fremont,1.0,2022-07-12,08/27/2022,Layoff Permanent,,,,Alameda County,,45201 Fremont Blvd. Fremont CA 94538,,,,2022-07,7.0,July
+California,"Tesla, Inc.",Fremont,2.0,2022-07-12,08/27/2022,Layoff Permanent,,,,Alameda County,,47400 Kato Road Fremotn CA 94538,,,,2022-07,7.0,July
+California,"Tesla, Inc.",Fremont,41.0,2022-07-12,08/27/2022,Layoff Permanent,,,,Alameda County,,45500 Fremont Blvd. Fremont CA 94538,,,,2022-07,7.0,July
+California,"Tesla, Inc.",San Mateo,229.0,2022-07-11,08/27/2022,Closure Permanent,,,,San Mateo County,,3055 Clearview Way San Mateo CA 94402,,,,2022-07,7.0,July
+California,"Tesla, Inc",Fremont,11083.0,2020-05-12,04/13/2020,Layoff Temporary,,,,Alameda County,,,,,,2020-05,5.0,May
+California,Tesla Inc.,Lathrop,156.0,2020-05-12,04/13/2020,Layoff Temporary,,,,San Joaquin County,,,,,,2020-05,5.0,May
+California,"Tesla, Inc.",Fremont,964.0,2019-06-17,03/20/2019,Layoff Permanent,,,,Alameda County,,,,,,2019-06,6.0,June
+California,"Tesla, Inc.",Palo Alto,84.0,2019-06-17,03/20/2019,Layoff Permanent,,,,Santa Clara,,,,,,2019-06,6.0,June
+California,"Tesla, Inc.",Lathrop,141.0,2019-03-01,03/20/2019,Layoff Permanent,,,,San Joaquin,,,,,,2019-03,3.0,March
+California,"Tesla, Inc.",Fremont,420.0,2018-06-19,08/14/2018,Layoff Permanent,,,,Alameda County,,,,,,2018-06,6.0,June
+California,"Tesla, Inc.",Palo Alto,86.0,2018-06-19,08/14/2018,Layoff Permanent,,,,Santa Clara,,,,,,2018-06,6.0,June
+California,"Tesla, Inc.",Roseville,63.0,2017-08-30,10/31/2017,Layoff Permanent,,,,Placer County,,,,,,2017-08,8.0,August
+California,"Twitter, Inc.",150 Pico Blvd Santa Monica CA 90405,4.0,2022-11-28,01/21/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2022-11,11.0,November
+California,"Twitter, Inc.",1355 Market St #900 San Francisco CA 94103,10.0,2022-11-28,01/21/2023,Layoff Permanent,,,,San Francisco County,,,,,,2022-11,11.0,November
+California,"Twitter, Inc.",150 Pico Blvd Santa Monica CA 90405,93.0,2022-11-07,01/04/2023,Layoff Permanent,,,,Los Angeles County,,,,,,2022-11,11.0,November
+California,"Twitter, Inc.",1355 Market St San Francisco CA 94103,784.0,2022-11-07,01/04/2023,Layoff Permanent,,,,San Francisco County,,,,,,2022-11,11.0,November
+California,"Twitter, Inc.","3055 Olin Ave., Floor 3 San Jose CA 95128",106.0,2022-11-07,01/04/2023,Layoff Permanent,,,,Santa Clara County,,,,,,2022-11,11.0,November
+California,"Twitter, Inc.",San Francisco,67.0,2016-10-27,12/27/2016,Layoff Permanent,,,,,,,,,,2016-10,10.0,October
+California,"Twitter, Inc.",San Francisco,240.0,2015-10-14,12/13/2015,Layoff Permanent,,,,,,,,,,2015-10,10.0,October

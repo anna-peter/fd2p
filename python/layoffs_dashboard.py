@@ -8,7 +8,6 @@ import dash_bootstrap_components as dbc
 # Use a theme from bootswatch.com
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MORPH])
 
-# --- 1. EFFICIENT DATA LOADING ---
 # Load and combine all data into a single DataFrame at startup.
 def load_all_data():
     state_files = {
@@ -57,7 +56,6 @@ num_companies = master_df['Company'].nunique()
 #     html.P(f"{num_companies}", className="card-text fs-2 fw-bold")
 # ]), className="text-center p-3")
 
-# --- 3. REBUILT APP LAYOUT ---
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(html.H1('Tech Layoffs in 2025', className='text-center my-4'), width=12)
@@ -82,16 +80,47 @@ app.layout = dbc.Container([
             dbc.Tabs([
                 dbc.Tab(dcc.Graph(id='state-treemap', style={'height': '60vh'}), label='By State', tab_id='tab-state'),
                 dbc.Tab(dcc.Graph(id='company-treemap', style={'height': '60vh'}), label='By Company', tab_id='tab-company'),
+                dbc.Tab(dcc.Graph(id='month-treemap', style={'height': '60vh'}), label='By Month', tab_id='tab-month'),
             ], id='tabs', active_tab='tab-state')
         ], className="p-0") # Remove padding from card body to let graph fill space
     ]),
 ], fluid=True, className="dbc") # The "dbc" class helps with theme integration
 
 
+# --- New Tab: Treemap by Month ---
+def get_monthly_layoffs():
+    # Load and combine all cleaned state datasets
+    dfs = []
+    state_files = {
+        'California': '../data/tech_layoffs_ca_cleaned.csv',
+        'New York': '../data/tech_layoffs_ny_cleaned.csv',
+        'Texas': '../data/tech_layoffs_tx_cleaned.csv',
+        'Washington': '../data/tech_layoffs_wa_cleaned.csv',
+    }
+    for path in state_files.values():
+        try:
+            df = pd.read_csv(path, parse_dates=['WARN Received Date'])
+            dfs.append(df)
+        except Exception:
+            pass
+    if not dfs:
+        return pd.DataFrame(columns=['Month name', 'Number of Workers', 'Month Num'])
+    df_combined = pd.concat(dfs, ignore_index=True)
+    # Extract month and month name
+    df_combined['Month'] = df_combined['WARN Received Date'].dt.month
+    df_combined['Month name'] = df_combined['WARN Received Date'].dt.strftime('%B')
+    # Group by month and sum the layoffs
+    monthly_total = df_combined.groupby('Month name', sort=False)['Number of Workers'].sum().reset_index()
+    # Add a month number for sorting
+    monthly_total['Month Num'] = pd.to_datetime(monthly_total['Month name'], format='%B').dt.month
+    monthly_total = monthly_total.sort_values('Month Num')
+    return monthly_total
+
 # --- 4. DYNAMIC CALLBACK ---
 @app.callback(
     Output('state-treemap', 'figure'),
     Output('company-treemap', 'figure'),
+    Output('month-treemap', 'figure'),
     Input('tabs', 'active_tab'),
     Input('top-n-slider', 'value')
 )
@@ -99,6 +128,7 @@ def update_treemaps(active_tab, top_n):
     # Group and filter data based on slider
     state_layoffs = master_df.groupby('State')['Layoffs'].sum().nlargest(top_n).reset_index()
     company_layoffs = master_df.groupby('Company')['Layoffs'].sum().nlargest(top_n).reset_index()
+    monthly_layoffs = get_monthly_layoffs()
 
     # Create base figures
     fig_state = px.treemap(
@@ -109,9 +139,13 @@ def update_treemaps(active_tab, top_n):
         company_layoffs, path=['Company'], values='Layoffs',
         color='Layoffs', color_continuous_scale=px.colors.sequential.PuBu
     )
+    fig_month = px.treemap(
+        monthly_layoffs, path=['Month name'], values='Number of Workers',
+        color='Number of Workers', color_continuous_scale=px.colors.sequential.Greens
+    )
 
-    # Apply consistent styling to both figures
-    for fig in [fig_state, fig_company]:
+    # Apply consistent styling to all figures
+    for fig in [fig_state, fig_company, fig_month]:
         fig.update_layout(
             title=None,
             margin=dict(t=10, l=10, r=10, b=10),
@@ -127,11 +161,13 @@ def update_treemaps(active_tab, top_n):
     
     # Efficiently update only the visible tab
     if active_tab == 'tab-state':
-        return fig_state, dash.no_update
+        return fig_state, dash.no_update, dash.no_update
     elif active_tab == 'tab-company':
-        return dash.no_update, fig_company
+        return dash.no_update, fig_company, dash.no_update
+    elif active_tab == 'tab-month':
+        return dash.no_update, dash.no_update, fig_month
 
-    return fig_state, fig_company
+    return fig_state, fig_company, fig_month
 
 if __name__ == '__main__':
     app.run(debug=True)
