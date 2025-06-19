@@ -42,29 +42,28 @@ def load_all_data():
 # Load the data once
 master_df = load_all_data()
 
-# --- 2. PRE-CALCULATE KPIs ---
-total_layoffs = master_df['Layoffs'].sum()
-num_companies = master_df['Company'].nunique()
+def get_state_layoffs(top_n):
+    return master_df.groupby('State')['Layoffs'].sum().nlargest(top_n).reset_index()
 
-# kpi_layoffs_card = dbc.Card(dbc.CardBody([
-#     html.H6("Total Layoffs", className="card-title text-muted"),
-#     html.P(f"{total_layoffs:,.0f}", className="card-text fs-2 fw-bold")
-# ]), className="text-center p-3")
+def get_company_layoffs(top_n):
+    return master_df.groupby('Company')['Layoffs'].sum().nlargest(top_n).reset_index()
 
-# kpi_companies_card = dbc.Card(dbc.CardBody([
-#     html.H6("Companies Affected", className="card-title text-muted"),
-#     html.P(f"{num_companies}", className="card-text fs-2 fw-bold")
-# ]), className="text-center p-3")
+def get_monthly_layoffs():
+    if 'WARN Received Date' not in master_df.columns:
+        return pd.DataFrame(columns=['Month name', 'Number of Workers', 'Month Num'])
+    df = master_df.copy()
+    df['Month'] = pd.to_datetime(df['WARN Received Date'], errors='coerce').dt.month
+    df['Month name'] = pd.to_datetime(df['WARN Received Date'], errors='coerce').dt.strftime('%B')
+    monthly_total = df.groupby('Month name', sort=False)['Layoffs'].sum().reset_index()
+    monthly_total['Month Num'] = pd.to_datetime(monthly_total['Month name'], format='%B').dt.month
+    monthly_total = monthly_total.sort_values('Month Num')
+    monthly_total = monthly_total.rename(columns={'Layoffs': 'Number of Workers'})
+    return monthly_total
 
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(html.H1('Tech Layoffs in 2025', className='text-center my-4'), width=12)
-    ]),
-
-    # dbc.Row([
-    #     dbc.Col(kpi_layoffs_card, md=4),
-    #     dbc.Col(kpi_companies_card, md=4),
-    # ], justify="center", className="mb-4"),
+    ], className="mb-4"),
 
     dbc.Card([
         dbc.CardHeader(
@@ -78,45 +77,57 @@ app.layout = dbc.Container([
         ),
         dbc.CardBody([
             dbc.Tabs([
-                dbc.Tab(dcc.Graph(id='state-treemap', style={'height': '60vh'}), label='By State', tab_id='tab-state'),
-                dbc.Tab(dcc.Graph(id='company-treemap', style={'height': '60vh'}), label='By Company', tab_id='tab-company'),
-                dbc.Tab(dcc.Graph(id='month-treemap', style={'height': '60vh'}), label='By Month', tab_id='tab-month'),
-            ], id='tabs', active_tab='tab-state')
+                dbc.Tab(
+                    dcc.Graph(
+                        id='state-treemap',
+                        figure=px.treemap(
+                            get_state_layoffs(20),  # Provide default top_n value
+                            path=['State'],
+                            values='Layoffs',
+                            title='Tech Layoffs by State (2025): CA, NY, TX, WA',
+                            color='Layoffs',
+                            color_continuous_scale=px.colors.sequential.Blues
+                        )
+                    ), label='By State', tab_id='tab-state', className='p-4'),
+                dbc.Tab(
+                    dcc.Graph(
+                        id='company-treemap',
+                        figure=px.treemap(
+                            get_company_layoffs(20),  # Provide default top_n value
+                            path=['Company'],
+                            values='Layoffs',
+                            title='Tech Layoffs by Company (2025)',
+                            color='Layoffs',
+                            color_continuous_scale=px.colors.sequential.Greens
+                        )
+                    ), label='By Company', tab_id='tab-company', className='p-4'),
+                dbc.Tab(
+                    dcc.Graph(
+                        id='month-treemap',
+                        figure=px.treemap(
+                            get_monthly_layoffs(),
+                            path=['Month name'],
+                            values='Number of Workers',
+                            title='Total Layoffs by Month in Major Tech Companies',
+                            color='Number of Workers',
+                            color_continuous_scale=px.colors.sequential.Greens
+                        )
+                    ), label='By Month', tab_id='tab-month', className='p-4'),
+                dbc.Tab(
+                    html.Div([
+                        html.H4("Startup Job Postings"),
+                        html.Video(
+                            controls=True,
+                            src="/assets/YCjobs.mp4",
+                            style={"width": "100%", "maxWidth": "720px"}
+                        )
+                    ]), label='Jobs', tab_id='tab-video', className='p-4'),
+            ], id='tabs', active_tab='tab-state', className='mb-4'),
         ], className="p-0") # Remove padding from card body to let graph fill space
     ]),
 ], fluid=True, className="dbc") # The "dbc" class helps with theme integration
 
 
-# --- New Tab: Treemap by Month ---
-def get_monthly_layoffs():
-    # Load and combine all cleaned state datasets
-    dfs = []
-    state_files = {
-        'California': '../data/tech_layoffs_ca_cleaned.csv',
-        'New York': '../data/tech_layoffs_ny_cleaned.csv',
-        'Texas': '../data/tech_layoffs_tx_cleaned.csv',
-        'Washington': '../data/tech_layoffs_wa_cleaned.csv',
-    }
-    for path in state_files.values():
-        try:
-            df = pd.read_csv(path, parse_dates=['WARN Received Date'])
-            dfs.append(df)
-        except Exception:
-            pass
-    if not dfs:
-        return pd.DataFrame(columns=['Month name', 'Number of Workers', 'Month Num'])
-    df_combined = pd.concat(dfs, ignore_index=True)
-    # Extract month and month name
-    df_combined['Month'] = df_combined['WARN Received Date'].dt.month
-    df_combined['Month name'] = df_combined['WARN Received Date'].dt.strftime('%B')
-    # Group by month and sum the layoffs
-    monthly_total = df_combined.groupby('Month name', sort=False)['Number of Workers'].sum().reset_index()
-    # Add a month number for sorting
-    monthly_total['Month Num'] = pd.to_datetime(monthly_total['Month name'], format='%B').dt.month
-    monthly_total = monthly_total.sort_values('Month Num')
-    return monthly_total
-
-# --- 4. DYNAMIC CALLBACK ---
 @app.callback(
     Output('state-treemap', 'figure'),
     Output('company-treemap', 'figure'),
@@ -125,12 +136,10 @@ def get_monthly_layoffs():
     Input('top-n-slider', 'value')
 )
 def update_treemaps(active_tab, top_n):
-    # Group and filter data based on slider
-    state_layoffs = master_df.groupby('State')['Layoffs'].sum().nlargest(top_n).reset_index()
-    company_layoffs = master_df.groupby('Company')['Layoffs'].sum().nlargest(top_n).reset_index()
+    state_layoffs = get_state_layoffs(top_n)
+    company_layoffs = get_company_layoffs(top_n)
     monthly_layoffs = get_monthly_layoffs()
 
-    # Create base figures
     fig_state = px.treemap(
         state_layoffs, path=['State'], values='Layoffs',
         color='Layoffs', color_continuous_scale=px.colors.sequential.Mint
@@ -144,29 +153,24 @@ def update_treemaps(active_tab, top_n):
         color='Number of Workers', color_continuous_scale=px.colors.sequential.Greens
     )
 
-    # Apply consistent styling to all figures
     for fig in [fig_state, fig_company, fig_month]:
         fig.update_layout(
             title=None,
             margin=dict(t=10, l=10, r=10, b=10),
             font=dict(family="sans-serif"),
         )
-        # *** THIS IS THE CORRECTED AND SAFE VERSION ***
         fig.update_traces(
             textinfo='label+value',
             texttemplate='%{label}<br>%{value:,.0f}',
             hovertemplate='<b>%{label}</b><br>Total Layoffs: %{value:,.0f}<extra></extra>'
-            # The 'depthfade' property has been removed to ensure compatibility
         )
-    
-    # Efficiently update only the visible tab
+
     if active_tab == 'tab-state':
         return fig_state, dash.no_update, dash.no_update
     elif active_tab == 'tab-company':
         return dash.no_update, fig_company, dash.no_update
     elif active_tab == 'tab-month':
         return dash.no_update, dash.no_update, fig_month
-
     return fig_state, fig_company, fig_month
 
 if __name__ == '__main__':
